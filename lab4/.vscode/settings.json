@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "pthread.h": "c",
+        "crawl.h": "c",
+        "stdlib.h": "c",
+        "queue.h": "c",
+        "findpng2.h": "c",
+        "unistd.h": "c",
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "ranges": "c",
+        "utility": "c",
+        "curl.h": "c",
+        "types.h": "c",
+        "string.h": "c"
+    }
+}

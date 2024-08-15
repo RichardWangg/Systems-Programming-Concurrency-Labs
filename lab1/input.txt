@@ -1,0 +1,7 @@
+./catpng ./starter/images/uweng_cropped/uweng_cropped_0.png ./starter/images/uweng_cropped/uweng_cropped_1.png ./starter/images/uweng_cropped/uweng_cropped_2.png ./starter/images/uweng_cropped/uweng_cropped_3.png ./starter/images/uweng_cropped/uweng_cropped_4.png ./starter/images/uweng_cropped/uweng_cropped_5.png ./starter/images/uweng_cropped/uweng_cropped_6.png
+
+./catpng ./starter/images/cropped/pic_cropped_0.png ./starter/images/cropped/pic_cropped_1.png ./starter/images/cropped/pic_cropped_2.png ./starter/images/cropped/pic_cropped_3.png ./starter/images/cropped/pic_cropped_4.png 
+
+valgrind --track-origins=yes --leak-check=full ./catpng ./starter/images/cropped/pic_cropped_0.png ./starter/images/cropped/pic_cropped_1.png ./starter/images/cropped/pic_cropped_2.png ./starter/images/cropped/pic_cropped_3.png ./starter/images/cropped/pic_cropped_4.png 
+
+valgrind --show-leak-kinds=all --track-origins=yes --leak-check=full ./catpng ./starter/images/uweng_cropped/uweng_cropped_0.png ./starter/images/uweng_cropped/uweng_cropped_1.png ./starter/images/uweng_cropped/uweng_cropped_2.png ./starter/images/uweng_cropped/uweng_cropped_3.png ./starter/images/uweng_cropped/uweng_cropped_4.png ./starter/images/uweng_cropped/uweng_cropped_5.png ./starter/images/uweng_cropped/uweng_cropped_6.png

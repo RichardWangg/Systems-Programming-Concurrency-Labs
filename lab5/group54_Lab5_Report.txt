@@ -1,0 +1,1967 @@
+========================
+Lab 5 marking report
+
+======= PART 1 =======
+>> Running make
+Test Passed: Compiled from makefile +0.5
+
+======= PART 2 =======
+
+-- case 2.1 --
+>> Running: ./findpng3 -t 20 -m 20 http://ece252-1.uwaterloo.ca/lab4
+Iterating 13 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca/~yqhuang/lab4/imgs/Disguise.png
+Unknown content type: image/png
+Unknown content type: image/jpeg
+Unknown content type: image/jpeg
+Iterating 13 times
+No result
+Unknown content type: image/jpeg
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqOKR-cFRCkiCUBEMAAAWfDvBFlRisL9ysLWHYHbcQbn1b28PV_uHBZ0gJf5bvzrnf1HNXxB6KRlAVETwTIqBH2Q==
+Size of png url is: 1
+Unknown content type: image/png
+Iterating 23 times
+Unknown content type: text/html; charset=UTF-8
+No result
+No result
+Iterating 22 times
+No result
+No result
+Iterating 17 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqdRxJhdCk49ofJ1TCxsbV6DF4DIHKtdWsF-5fJM0BHF6b6oM5Y99T7T78SQQcii0YvDMqzGN4L8a4eFsQotIHLA==
+Size of png url is: 2
+Unknown content type: image/png
+No result
+Iterating 23 times
+No result
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqXCN_I78zg0zDjOvOhA19H7tB5L2pSkuG0NmXg4E1LCe1Ew8utkFxulC2ssJUGOYgguCCXcDlOraPK-tYzsMl-w==
+Unknown content type: image/png
+No result
+No result
+No result
+No result
+No result
+No result
+Unknown content type: text/html; charset=UTF-8
+Iterating 22 times
+Iterating 20 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqgjR5_sHZbBvNU5YQC04eJomGbOUwfmE1UKLU2hqTMyJwx0JdBm51wjJKRDXiTNMcw4zPQ46aWXsgBauLlLHuCg==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq1GsX73XwnpU1qaO1laOtmzl_e3npHIX83pNGFgfOLJG2vwICDD5Gnb7iwdzV_ZKnckzZQfhsmEEeWbvO3-4Kug==
+Unknown content type: image/png
+No result
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoq0YgAvVszWYxcJFQB2CCtFpkaPPuXFTzYwphoS7GhEuMgkb2J_OngpH8DFLjRSwhAsIVOXj4r7rk8cW933HkgOg==
+Size of png url is: 3
+Unknown content type: image/png
+No result
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqffRXM8b2fsf4GdsWmFBW6IC7U-W87yVu_WWcPDjK86jHIC6vPd3EPwq3OrbwkYPTFs6HN3TA0Sv0d8iXpFlF8A==
+Size of png url is: 4
+Unknown content type: image/png
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq04iE2NubeV6SQUvgKhxmeeIlm73SvacNUbIahdu9zqPSwrsu7jWhGIFcr_YzpuxCny-pqklqsgP00PpoZt2WqQ==
+Unknown content type: image/png
+No result
+No result
+No result
+Iterating 22 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq07PuL8fqDM5n1nP_Boz5t5mxmmv6UtGjbz9h-lwbvOYOvNXvV8SDKVEbUCnMMRkqU9ikPRv6P2x_B9rnAbwmNQ==
+Unknown content type: image/png
+No result
+Unknown content type: text/html; charset=UTF-8
+Iterating 20 times
+No result
+No result
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqMygTDJVnG3Ex7i1F-yupYZOA688V189sM0dPqdrEvKYrFzk5KpfesMlljky6uKQjZ9_RqM703IzyhYE64GYVKg==
+Size of png url is: 5
+Unknown content type: image/png
+No result
+No result
+No result
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoq5G4aDniL4Qq2oqRPkqbBpeuL532HGNeDkMbnMeStk6sRtRjOW5pXVTYZftfO_4dMVXEtfMyT6APE_G_oYiiSXg==
+Size of png url is: 6
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq95uzLLKnQXFFbRje7zj-qIFm3ThjVOVB4HcArwGxDeGoAA9duDGD1VxBIzqVYRL6i7m529eBbSwcZUuH7JSXOw==
+Size of png url is: 7
+Unknown content type: image/png
+No result
+No result
+No result
+No result
+No result
+Iterating 21 times
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqkjdW0rfUZjcMrjQFrMgSk4ZMd9MEL-MkF60HJbuGlyH7dmvoUqOZ7IB4lBylvfc6Ics3bGsgdJRrLVtuHRYxJQ==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoq2z2P0icqsAKhNN1ShRk3VoE4bTiWxKS_b_qZA8AwLWJ-hiyV6MuV1YDLhGQHjWGhAFlYuZlu2yjijdcLAbCPtg==
+Size of png url is: 8
+Unknown content type: image/png
+No result
+Iterating 22 times
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqyF1KKpXCKBZ6nZbBX6sdqiDexDa3FsCwKVNgbLA1V6BOa9-WmNSZzPFZ9ijA7FQhsCUt0qU8qw0Kjvotk5BmlA==
+Size of png url is: 9
+Unknown content type: image/png
+No result
+No result
+No result
+No result
+No result
+No result
+No result
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqhcbEzYIL2qtPfbuMPXsgDxnxr_wNor8tMkvwkcERzfB-IqlyUYc5kdQDnKNFJK6-MdefgIyZ9evFZkXDgzwtNg==
+Unknown content type: image/png
+No result
+No result
+Iterating 27 times
+No result
+No result
+No result
+Iterating 22 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqptJdYZo35NmT3gdmnyFEVYZD-wgzoKs_seVkWIiRWiDbJR8WZ7_ZT_t7O5UOtPfBn3vfUu7Jr8ySijwyqhDxSA==
+Unknown content type: image/png
+No result
+No result
+Iterating 21 times
+Iterating 20 times
+Iterating 21 times
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqG9TVEn26FECwqFiiTwAbRz4vmiPBFKgJ0V-r53I0LPiPAW9Rv60CBOkJ4kAJNotTHPioq7BEvNilwyTFqkoTpQ==
+Size of png url is: 10
+Unknown content type: image/png
+No result
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqTGHzfjSsQmt4bg-1etvDEKAI4mRmflZI31eB7sf0fIw9w4iShIHU5l2b6G9FxihTql5x94UDIKUnTCJNw6Mp3w==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqV3CmIQBojYioM7cSD-zlkNjtDm0z7ccB_bBkMfEOEmDWWPVa1ONrUPezzx3LXGIZJxuxjvh_vf6K_WQ2MpEr2A==
+Unknown content type: image/png
+No result
+Iterating 26 times
+No result
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqa1qHKwsqHWqeXDEhkwJ5n6_sdcW8cilFpootpnDAGJM0qOwsKP_2SN2BdTBmwHg59VIZpSq0yGwbwvk8a_QWHQ==
+Unknown content type: image/png
+No result
+No result
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqqe1jfuLRX2zltfEz3ZU46ZfTV80YcQZNu1DQf0Q0h1cItIpJXwrcPvAk294Fp7VD6FGWa-Pk2LHq8IV49MnEjg==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqJ5XKlNHrHGYQYTbmdKyzD8VPNxIb2XXhJ06J3nD8alFxSJZSH_NLF6iddf9sqbj5P8dzJMmU6EYbwctBYK8qRQ==
+Size of png url is: 11
+Unknown content type: image/png
+No result
+No result
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqccJVzFa4xmR64yRKpVSE-Ga8NCmaqdPWCm5tn8B13hOK-j1WArjzF2Tpn7HXkuLYKMk9d5MMzR-TenITOZ63tg==
+Size of png url is: 12
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqH0WGwe9CY_eNtBjdsOsGv9Zu2HDaCeO_VOIb048FS6CGqdXJWnoCbk2a-hykr_N_pj0HRtF7yWi9wpq87k3Y5A==
+Size of png url is: 13
+Unknown content type: image/png
+No result
+Iterating 23 times
+No result
+No result
+No result
+No result
+No result
+Iterating 17 times
+No result
+Iterating 19 times
+Iterating 16 times
+No result
+Iterating 25 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqOVGnSZuaRnEgW6MPVB2gJ6U4vuiqhP74xzAKKUjofCWbqfExEtsLl4M1m80X1A0fwHXP638fzLRnPZoYaZ86xw==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqcKL_a8HSquHH2l31XjNtpyLVBstSbqXqdfXoJJ-5EY4MYoPWGFPaB5insiMEPDebf8ZvpgP4yVrQzXFCXEn5mg==
+Size of png url is: 14
+Unknown content type: image/png
+Iterating 15 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoquDBE3WK-q07eyV-5lyF2ReG0Q6TWj19ZlvYiWHR_4HUByQ84hhTHeOmduPk99EjRnJaOKrmG0Yo7B_L6iNoeTQ==
+Unknown content type: image/png
+No result
+No result
+No result
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqJh74vvn5U0wbJMTdz-d4UtBkYMJiUCgavuMEJR6fIAATaWFjDU_o0x8aAKyPW7Qp3XVCsuzeKARQVCw1Mp_aNQ==
+Unknown content type: image/png
+Iterating 18 times
+Iterating 29 times
+Iterating 21 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqgo8YnSJr1mU6zzMBlZBLbvqUQMqVtK3VBBQXLDrXUtAvAjraCPsh6NycXBlxr9DrOtHFqxtq550LlkEXLphCTA==
+Size of png url is: 15
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqUFVDu48UheUKNfQX-u9fLNGuz7mFMd8qHgLphqwVDnuhQvciY3sWnNDZdP91UAAaRJfD0_EOQdKE1ohXVwlNbQ==
+Size of png url is: 16
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqiN59zXwkIrUwyhEt5u5kpqsd6HbcvMUqgEHPeUCS4ozokIpMquhliCM4Yvk-3QWHG1Q17hAKMRen5phUSJJ_yQ==
+Unknown content type: image/png
+Iterating 27 times
+Iterating 23 times
+No result
+Unknown content type: text/html; charset=UTF-8
+No result
+No result
+No result
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqcyu5_cnSJ2l3T0vVa9cClpFg3Gg5WYBS_pOyPRM2C9eFaDymPpDw9svxZkRLCdML0C_Z1UL0Qin2wQpmjBUTnw==
+Size of png url is: 17
+Unknown content type: image/png
+Iterating 20 times
+Iterating 21 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqnAC-dsY2mioYp0KXZFFBTGGQXL_Wg4HSMe4EztPZ_6XbsWhPuW2avlffmdMSqdKhT4sp-6ISg1urDh1YJy32Rg==
+Size of png url is: 18
+Unknown content type: image/png
+Iterating 27 times
+Iterating 23 times
+Iterating 23 times
+No result
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqNWsAWJajhCG7vNTdO9jpw--ZoEuRu3rbfYD0d4j1FKdPyOJnyyIDudoeABe7O3iZePX1BFZpEe7MSE41dI9BOA==
+Size of png url is: 19
+Unknown content type: image/png
+No result
+Iterating 21 times
+Iterating 27 times
+Unknown content type: text/html; charset=UTF-8
+No result
+Iterating 27 times
+Iterating 24 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqbXHM1MeWQzCIoznLmI5HWVmVhnBnQlSviphCDwJtwyezRqWYjEP_82k9oes-K5MD96FtC1zCGUB1vKlAVfM1AQ==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqqNX4UjA2O8tCCL2ZAB4OgeWOK6P0v5XeIQ0O4rFu7PUxF2IhDrfsAon4_2sMZch_V-JVNGbzE4Aa_HLGw1CylA==
+Unknown content type: image/png
+No result
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqlbCiDX5b-a3W54nFrTdOJ02a7RbAgwnpArG5_4cSt26a6ps3P63H1tNXc7_2cKjW-5Xpjy9Cv8fAuj2-94dD3g==
+Size of png url is: 20
+Unknown content type: image/png
+findpng3 execution time: 2.370922 seconds
+Found: 20 pngs
+Test Passed: Running with -t 20 -m 20 collected 20 unique and valid pngs +1
+
+-- case 2.2 --
+>> Running: ./findpng3 -t 20 -m 100 -v log.txt http://ece252-1.uwaterloo.ca/lab4
+Iterating 13 times
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca/~yqhuang/lab4/imgs/Disguise.png
+Unknown content type: image/png
+Unknown content type: image/jpeg
+Unknown content type: image/jpeg
+Iterating 13 times
+Unknown content type: image/jpeg
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqOKR-cFRCkiCUBEMAAAWfDvBFlRisL9ysLWHYHbcQbn1b28PV_uHBZ0gJf5bvzrnf1HNXxB6KRlAVETwTIqBH2Q==
+Size of png url is: 1
+Unknown content type: image/png
+Iterating 23 times
+Unknown content type: text/html; charset=UTF-8
+No result
+Iterating 22 times
+No result
+Iterating 17 times
+No result
+No result
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqdRxJhdCk49ofJ1TCxsbV6DF4DIHKtdWsF-5fJM0BHF6b6oM5Y99T7T78SQQcii0YvDMqzGN4L8a4eFsQotIHLA==
+Size of png url is: 2
+Unknown content type: image/png
+No result
+No result
+No result
+Iterating 23 times
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqXCN_I78zg0zDjOvOhA19H7tB5L2pSkuG0NmXg4E1LCe1Ew8utkFxulC2ssJUGOYgguCCXcDlOraPK-tYzsMl-w==
+Unknown content type: image/png
+No result
+No result
+No result
+No result
+No result
+Unknown content type: text/html; charset=UTF-8
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq1GsX73XwnpU1qaO1laOtmzl_e3npHIX83pNGFgfOLJG2vwICDD5Gnb7iwdzV_ZKnckzZQfhsmEEeWbvO3-4Kug==
+Unknown content type: image/png
+Iterating 22 times
+No result
+Iterating 20 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqgjR5_sHZbBvNU5YQC04eJomGbOUwfmE1UKLU2hqTMyJwx0JdBm51wjJKRDXiTNMcw4zPQ46aWXsgBauLlLHuCg==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoq0YgAvVszWYxcJFQB2CCtFpkaPPuXFTzYwphoS7GhEuMgkb2J_OngpH8DFLjRSwhAsIVOXj4r7rk8cW933HkgOg==
+Size of png url is: 3
+Unknown content type: image/png
+No result
+No result
+No result
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqffRXM8b2fsf4GdsWmFBW6IC7U-W87yVu_WWcPDjK86jHIC6vPd3EPwq3OrbwkYPTFs6HN3TA0Sv0d8iXpFlF8A==
+Size of png url is: 4
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq04iE2NubeV6SQUvgKhxmeeIlm73SvacNUbIahdu9zqPSwrsu7jWhGIFcr_YzpuxCny-pqklqsgP00PpoZt2WqQ==
+Unknown content type: image/png
+Iterating 22 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq07PuL8fqDM5n1nP_Boz5t5mxmmv6UtGjbz9h-lwbvOYOvNXvV8SDKVEbUCnMMRkqU9ikPRv6P2x_B9rnAbwmNQ==
+Unknown content type: image/png
+No result
+No result
+No result
+Unknown content type: text/html; charset=UTF-8
+No result
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq95uzLLKnQXFFbRje7zj-qIFm3ThjVOVB4HcArwGxDeGoAA9duDGD1VxBIzqVYRL6i7m529eBbSwcZUuH7JSXOw==
+Size of png url is: 5
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqMygTDJVnG3Ex7i1F-yupYZOA688V189sM0dPqdrEvKYrFzk5KpfesMlljky6uKQjZ9_RqM703IzyhYE64GYVKg==
+Size of png url is: 6
+Unknown content type: image/png
+No result
+No result
+No result
+No result
+No result
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqkjdW0rfUZjcMrjQFrMgSk4ZMd9MEL-MkF60HJbuGlyH7dmvoUqOZ7IB4lBylvfc6Ics3bGsgdJRrLVtuHRYxJQ==
+Unknown content type: image/png
+No result
+Iterating 21 times
+Iterating 20 times
+No result
+No result
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoq5G4aDniL4Qq2oqRPkqbBpeuL532HGNeDkMbnMeStk6sRtRjOW5pXVTYZftfO_4dMVXEtfMyT6APE_G_oYiiSXg==
+Size of png url is: 7
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoq2z2P0icqsAKhNN1ShRk3VoE4bTiWxKS_b_qZA8AwLWJ-hiyV6MuV1YDLhGQHjWGhAFlYuZlu2yjijdcLAbCPtg==
+Size of png url is: 8
+Unknown content type: image/png
+No result
+Iterating 22 times
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqyF1KKpXCKBZ6nZbBX6sdqiDexDa3FsCwKVNgbLA1V6BOa9-WmNSZzPFZ9ijA7FQhsCUt0qU8qw0Kjvotk5BmlA==
+Size of png url is: 9
+Unknown content type: image/png
+No result
+No result
+No result
+No result
+No result
+No result
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqhcbEzYIL2qtPfbuMPXsgDxnxr_wNor8tMkvwkcERzfB-IqlyUYc5kdQDnKNFJK6-MdefgIyZ9evFZkXDgzwtNg==
+Unknown content type: image/png
+No result
+No result
+No result
+No result
+Iterating 27 times
+No result
+No result
+Iterating 22 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqptJdYZo35NmT3gdmnyFEVYZD-wgzoKs_seVkWIiRWiDbJR8WZ7_ZT_t7O5UOtPfBn3vfUu7Jr8ySijwyqhDxSA==
+Unknown content type: image/png
+No result
+No result
+Iterating 21 times
+Iterating 20 times
+Iterating 21 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqJ5XKlNHrHGYQYTbmdKyzD8VPNxIb2XXhJ06J3nD8alFxSJZSH_NLF6iddf9sqbj5P8dzJMmU6EYbwctBYK8qRQ==
+Size of png url is: 10
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqTGHzfjSsQmt4bg-1etvDEKAI4mRmflZI31eB7sf0fIw9w4iShIHU5l2b6G9FxihTql5x94UDIKUnTCJNw6Mp3w==
+Unknown content type: image/png
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqG9TVEn26FECwqFiiTwAbRz4vmiPBFKgJ0V-r53I0LPiPAW9Rv60CBOkJ4kAJNotTHPioq7BEvNilwyTFqkoTpQ==
+Size of png url is: 11
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqV3CmIQBojYioM7cSD-zlkNjtDm0z7ccB_bBkMfEOEmDWWPVa1ONrUPezzx3LXGIZJxuxjvh_vf6K_WQ2MpEr2A==
+Unknown content type: image/png
+No result
+Iterating 26 times
+No result
+Iterating 19 times
+Iterating 16 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqH0WGwe9CY_eNtBjdsOsGv9Zu2HDaCeO_VOIb048FS6CGqdXJWnoCbk2a-hykr_N_pj0HRtF7yWi9wpq87k3Y5A==
+Size of png url is: 12
+Unknown content type: image/png
+Iterating 23 times
+No result
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqqe1jfuLRX2zltfEz3ZU46ZfTV80YcQZNu1DQf0Q0h1cItIpJXwrcPvAk294Fp7VD6FGWa-Pk2LHq8IV49MnEjg==
+Unknown content type: image/png
+No result
+No result
+No result
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqccJVzFa4xmR64yRKpVSE-Ga8NCmaqdPWCm5tn8B13hOK-j1WArjzF2Tpn7HXkuLYKMk9d5MMzR-TenITOZ63tg==
+Size of png url is: 13
+Unknown content type: image/png
+No result
+No result
+No result
+No result
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqa1qHKwsqHWqeXDEhkwJ5n6_sdcW8cilFpootpnDAGJM0qOwsKP_2SN2BdTBmwHg59VIZpSq0yGwbwvk8a_QWHQ==
+Unknown content type: image/png
+No result
+No result
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqOVGnSZuaRnEgW6MPVB2gJ6U4vuiqhP74xzAKKUjofCWbqfExEtsLl4M1m80X1A0fwHXP638fzLRnPZoYaZ86xw==
+Unknown content type: image/png
+Iterating 17 times
+No result
+No result
+Iterating 25 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqcKL_a8HSquHH2l31XjNtpyLVBstSbqXqdfXoJJ-5EY4MYoPWGFPaB5insiMEPDebf8ZvpgP4yVrQzXFCXEn5mg==
+Size of png url is: 14
+Unknown content type: image/png
+Iterating 15 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoquDBE3WK-q07eyV-5lyF2ReG0Q6TWj19ZlvYiWHR_4HUByQ84hhTHeOmduPk99EjRnJaOKrmG0Yo7B_L6iNoeTQ==
+Unknown content type: image/png
+No result
+No result
+No result
+Iterating 18 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqJh74vvn5U0wbJMTdz-d4UtBkYMJiUCgavuMEJR6fIAATaWFjDU_o0x8aAKyPW7Qp3XVCsuzeKARQVCw1Mp_aNQ==
+Unknown content type: image/png
+Iterating 21 times
+Iterating 29 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqgo8YnSJr1mU6zzMBlZBLbvqUQMqVtK3VBBQXLDrXUtAvAjraCPsh6NycXBlxr9DrOtHFqxtq550LlkEXLphCTA==
+Size of png url is: 15
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqUFVDu48UheUKNfQX-u9fLNGuz7mFMd8qHgLphqwVDnuhQvciY3sWnNDZdP91UAAaRJfD0_EOQdKE1ohXVwlNbQ==
+Size of png url is: 16
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqiN59zXwkIrUwyhEt5u5kpqsd6HbcvMUqgEHPeUCS4ozokIpMquhliCM4Yvk-3QWHG1Q17hAKMRen5phUSJJ_yQ==
+Unknown content type: image/png
+Iterating 27 times
+Iterating 23 times
+No result
+Unknown content type: text/html; charset=UTF-8
+No result
+No result
+Iterating 23 times
+No result
+No result
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqcyu5_cnSJ2l3T0vVa9cClpFg3Gg5WYBS_pOyPRM2C9eFaDymPpDw9svxZkRLCdML0C_Z1UL0Qin2wQpmjBUTnw==
+Size of png url is: 17
+Unknown content type: image/png
+No result
+Iterating 20 times
+Iterating 21 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqnAC-dsY2mioYp0KXZFFBTGGQXL_Wg4HSMe4EztPZ_6XbsWhPuW2avlffmdMSqdKhT4sp-6ISg1urDh1YJy32Rg==
+Size of png url is: 18
+Unknown content type: image/png
+Iterating 21 times
+Iterating 27 times
+Iterating 27 times
+Iterating 23 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqNWsAWJajhCG7vNTdO9jpw--ZoEuRu3rbfYD0d4j1FKdPyOJnyyIDudoeABe7O3iZePX1BFZpEe7MSE41dI9BOA==
+Size of png url is: 19
+Unknown content type: image/png
+Unknown content type: text/html; charset=UTF-8
+Iterating 27 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqlbCiDX5b-a3W54nFrTdOJ02a7RbAgwnpArG5_4cSt26a6ps3P63H1tNXc7_2cKjW-5Xpjy9Cv8fAuj2-94dD3g==
+Size of png url is: 20
+Unknown content type: image/png
+Iterating 19 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqbXHM1MeWQzCIoznLmI5HWVmVhnBnQlSviphCDwJtwyezRqWYjEP_82k9oes-K5MD96FtC1zCGUB1vKlAVfM1AQ==
+Unknown content type: image/png
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq-P8RLFLbpz6bqrNQlY2L7pQ3lCyKqfyro3BdadHFazPolfsALNdHhVujp3HNUrc_XElW9BHCOSLHL3UAncDlCw==
+Unknown content type: image/png
+No result
+No result
+Iterating 15 times
+No result
+No result
+Iterating 17 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqOPRLPGzSiwHSdKrbejXV9DuijiB7HvMIiV6S8kE1M-xsUWFhNooanGd5qVL38aIqfB5O98WTMybt18cGA_P6FA==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqqNX4UjA2O8tCCL2ZAB4OgeWOK6P0v5XeIQ0O4rFu7PUxF2IhDrfsAon4_2sMZch_V-JVNGbzE4Aa_HLGw1CylA==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq8a_fCBHa_BLE4fRAdtNj08KN7meSOIuWK1vJPXnmbxWz_gkT9GMTkw7_ml_Ba2VdVKpMvqU_QSpJ9NiIjwFtCA==
+Size of png url is: 21
+Unknown content type: image/png
+No result
+No result
+Iterating 24 times
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqSwLdnTCpgy27SzAN1Zz9BYWzoLfmB4uk17MLQk2fr_RJO4UKPFN4bl_sj4daScDvVxwCxUu20ZyfjG8tOjrOZg==
+Unknown content type: image/png
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqfx__BLakfks3yEeAqoDRifEHzP52pQPdYV_vObS6A0ip-_2rfsfClWJO9IQiyTgDc45RPWEAhhwZas5NOGGDeQ==
+Unknown content type: image/png
+Iterating 22 times
+Iterating 19 times
+Iterating 16 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqHxfpDH87RCKWTHVXSECFOPleulDZQbasEch1iWOldZhEuz_yLee9rZSkksALml54i7f34lZFpX_M5S2NK2FTCw==
+Size of png url is: 22
+Unknown content type: image/png
+No result
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqW44GmfDp3HcTDEoHs2fxqfEsCTHOpIiH3JHhBbfrs_OkiWcpEQK2rqDZSsGol85fF56uKLJFvedQEbgZvukwcA==
+Unknown content type: image/png
+No result
+No result
+No result
+No result
+No result
+No result
+Iterating 25 times
+Iterating 26 times
+No result
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoq7gQan3cJFYjgEX4Q51s_IZeJahw5erGFAtEyFqT5cjCEAjK1TYRB5B6ifKrs58uenf37CspuwDbTnyz3737VQQ==
+Unknown content type: image/png
+Iterating 20 times
+Iterating 19 times
+Iterating 27 times
+Iterating 19 times
+No result
+Iterating 25 times
+Iterating 20 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqL9LRuHk7JF7cBx-hVADRTJCdjjs0or5ItVqFsYcwwCgdiCP7LioEm5vDYlN520W5833KcratYKQCFaCjTxnO2w==
+Size of png url is: 23
+Unknown content type: image/png
+Iterating 18 times
+Iterating 18 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq12a1y9KUsnVwBbMvmnrciODR4DVDP8BsN9oe-e_Mfp0X8ghUrgUAokJvNU7ECA7y7kQpRTiWuP-tMuLVLiUjLQ==
+Size of png url is: 24
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqnmj0uxlL9N_MOM4W9SHuG3Bv1GyyjC2slgkHU6HGVjDUWJ5Hry9FnQbkvTr21z79DFqZnzpRQ_TJm3dnFrFipw==
+Size of png url is: 25
+Unknown content type: image/png
+Iterating 20 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqZ06nqQtsvZ8Kd5-MROGMwRYTXXGWsBtuicrp5lKDpagJ6xGb5E8fDyoCo0Ps-JtdVvVEBsKJ8p4nFSx4AJaOZA==
+Size of png url is: 26
+Unknown content type: image/png
+Iterating 25 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqzO138B7PbKCBJ_88hN_yAsDGqM3eByyNwSvEndh0pnw8ZuhKPWIp-aZehTBOYltpYkDeuw4NV-P3p4tdJKMVMw==
+Unknown content type: image/png
+Iterating 22 times
+No result
+Iterating 19 times
+Iterating 24 times
+Iterating 24 times
+Iterating 25 times
+Iterating 23 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqq3BxZfCnvoj1qmF7NeMZqk2cP1b9Ycsv7EHL5ZsYYcsdzuKR8HulpVOF11SNEJ7auMuhfo0YDItv6r24gBI50g==
+Size of png url is: 27
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqFm-hGmNXulpcdwG2lDPM-iPTE4i0auOJzwxb5AnCj8uySznoi-LvmRoLsjMsBhaQevW2-dSWIgkv556CKh5hCw==
+Unknown content type: image/png
+Iterating 16 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq0srT9FjOpjzwrwLfFizKEVax4JogTWG7giEBrvZAmviruUbXVU6TgEJG-r0fxLhw0rgvPDorqCp0iMelP-ECbA==
+Unknown content type: image/png
+Iterating 26 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqaiI_243Hz-JXReQJKhL79samKQKt0e-JN8SvaxSopyH0OFI8981P-KrUlucYcXKmfIN9RHM2Q-_R58tLfSVydw==
+Size of png url is: 28
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqT7tyKcy_ZbWe0AURY60Ch3yHQZt64dmU_vskpw1nGNZx__CddiJwU_ozzUshIZipMCGpp9rwe1pWT4Ny8w4xEQ==
+Size of png url is: 29
+Unknown content type: image/png
+Iterating 26 times
+No result
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqny_HA63DcoFH6SKrgtrl4Ytq5S1UID0ydcwabB65Se4yekCRZ_wfmx0pZdC7UtrIw-IgC7JS4xQKadeJqQ7OpQ==
+Unknown content type: image/png
+Iterating 28 times
+Iterating 26 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoq-eTw_rpW7aW7Aqp7X79B1icwl5NKjSpSVRw9uhONrg1qsv2biNyWVXCIlC1UNcfibFfNX3ou34YcaLH_yEWZ3w==
+Size of png url is: 30
+Unknown content type: image/png
+Iterating 19 times
+Iterating 23 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqiiGC9giS8uS6D6aAraz9kWgpjluJMTdwRj8VC5COebfvIwofnWRk1DWL-BN3VmwXAwutJ89vRA0Q8iCmQtqxtg==
+Size of png url is: 31
+Unknown content type: image/png
+Iterating 17 times
+No result
+Iterating 19 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqf4ZaziO9hQbcSzRKIkt2tBexZsA89foKy05t_Bs_FmunbWysMSjpASncgIMb9MybFO3ge9EYLzdNNeXoN85aww==
+Size of png url is: 32
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqGd7UrFBhWrUaWMssY-MAuGjIxYVur9watlrpWPwTOkVFA1T8sFuqYKCfystNh6RyE6BFu_UQ_QZpNAZQkx22Aw==
+Size of png url is: 33
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoq4TX4OR0-xDPwa8a6looPtS-hdpubAfl7pzbc34O_fttreU8mGkJtOguT1ME-irP9WtMn06ehL59Sa3rV2m-ZgQ==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqYQXrORR1PHeT9YKz0yJFE66gkOBsQcRZx2qQ-Sxvv-7V-YMmnwY99C-FnzB0WGyz9oc2sootaVTkiffjd5p2SA==
+Size of png url is: 34
+Unknown content type: image/png
+No result
+Iterating 25 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqjfvwVPlPowd8jdAn8FpeUobBHXralnARDqT9BVXw4k1f7V35hhlAvL-eb_yrDE_bcphYp5k0EWtLjJeR-cPwtA==
+Size of png url is: 35
+Unknown content type: image/png
+Iterating 20 times
+Iterating 23 times
+Iterating 21 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqNyhy0eFLBXWbaeGTRcU8oIaSCecnWrYxqXRoYbxmmXIDbfThyJryFCY1GijcayTuSX2Qq55eTMV7bkqOzNc1AA==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqNlb24OOyW_IOhXJn3-sWtGsGFjOUHBs9cmNC47NakGDzkSB4mVOELBv7uzl4y5C_yX3dbr0101tZJLJYixkgHg==
+Size of png url is: 36
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqYs5s56JbI8p4kgUs2Yt18Ag7uwAZ7JV9neAf4zTeg3o6Judx0-91bDxWomBkRoqZ7qW2M62pvW3X4h95yikmFA==
+Size of png url is: 37
+Unknown content type: image/png
+Iterating 22 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqxAc9LzhwJvhBo4OYBZXvyy2yILJYWzAvpRvggrrPfGzZ5cRoWz8CVh8HAlN12vF7spuETJjUsmH7B2HkSgY-AA==
+Unknown content type: image/png
+Iterating 15 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqA3d4BNSMuu9sHQKLKj0-eSwTfVJJcMxBsma-PR6KGQanRREt0gjQGX5Lj1vZB_8NnU0d5zVoW0zIxQcB36X-Fg==
+Unknown content type: image/png
+Iterating 23 times
+Iterating 25 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqb9ZaJ3q4dlzEvTgG9WYwKcD9Aw7OUXeFicO-5M5IdNDjHBpKw7KBK3nCVqtuga4yzUaFEpJn8BqA1LzZprIJBw==
+Size of png url is: 38
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqcJUYRa9Jn5wyKKK20XQdHssuv-8yOKGRafaUNtGnVeSgq1tiWRTJKzUgznSSGaxDU6EPGEK1x9NOBjU4fORTtA==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqohtRavtxROdkHkjdg5-Qds9yiyyjsLmCOZAyj6py9KDC3HG59pR87oWCPSpVH652UGEqaTYsC8tgNc7C7kDQYw==
+Size of png url is: 39
+Unknown content type: image/png
+Unknown content type: text/html; charset=UTF-8
+Iterating 20 times
+No result
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoq_jZ6zKbsB8-h6ymyqpIbdvOWlZnhDYslAKpAeZemQ-xUpAxWYrwOKkyoxyUU5BvzYBfOIvxqH5YrgcDivbnFmw==
+Size of png url is: 40
+Unknown content type: image/png
+Iterating 28 times
+Iterating 21 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqpZcK246XF93AIlS-2FVxOSt7kSYkO1s2y0lsqwzCgZyPQ6EVNfa7Ok0RYG3n2jnzMeozr58l9AEs7VRUevNpQA==
+Size of png url is: 41
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqUihgi-nstsLJKLILaSUNGx36Ubi4PmJZHFuy9UB01JbXrAbc0tudjRqNWmTOhs_UOV1ZHTxJBETWfiTfy_W1jw==
+Unknown content type: image/png
+Iterating 16 times
+Iterating 25 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqq9WviNatk9lUiimwcj8a6Mz57aHe6qCRptMnpm6xB02Z_FElFnGSSu4M3sAD5UpoNnf8Ratak4iq0CuKThGnug==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoq01rkVkQjaeDmUS74YgpoAYouZhh90fUxB6VSDWbpFCBFW33WkG7EzOgwZAXEguFPp1c_7ZyAqD8Iv65pZvGr_g==
+Unknown content type: image/png
+Iterating 26 times
+No result
+Iterating 27 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqav1Kdiw1sKgCtkng9xg0Zyiyvhd3DrosEFgqg3Prqnw6H3SwlotULiad5cBOAqVe8gwKXzTVGzk9dx85sz_OPQ==
+Size of png url is: 42
+Unknown content type: image/png
+Unknown content type: text/html; charset=UTF-8
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqKpeuOY-q44PQvM41wYM4ZeGu0j2wer5aWP4tCvpRCEMoNoCJBluQSln6R_g7imGtqnWBaG_6NmC6jwY6i7g3qQ==
+Size of png url is: 43
+Unknown content type: image/png
+Iterating 24 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqZ9Q5CWEe_l2tUpoA9sZdOAqkr21C9g-pUcFJpNSAV2Uav9IwoZmavFcEloh3auR1EJ2oYnYhw2RiD3o9TAe-bA==
+Size of png url is: 44
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqWGbq2k80cGaapxeTIlfH_IIeRzM_NlYysNg8pUnqdTMblbKVvvsb1_mZ6HzwFmofDF1ikgx2av_4yafJLBlwow==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqL_c-9JxDIvINtKeBS9-DJ8fUTufX-3rP8KbuX0cOVBcX2Ji5MY2nIQNBJzFVMu3Zgr6lttkG6JZAueSOdH6x6g==
+Unknown content type: image/png
+Iterating 23 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq-pP0U15bygWdzAsdy_ZpOY8pHnECaju2IKgXvFCkPIrW81kzaEAe6AiDHqspyb0ayFQQqlfHKTVkpyoZ1d9usQ==
+Unknown content type: image/png
+Iterating 27 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqS9JZ1mhvwHbuCJLZAhAf6BW3GL2shQEsemd5YDvBpOOnKBbfXoj2BX-v5Yrsnb3lcPz3XQc751PIKY-5EckiRg==
+Size of png url is: 45
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqDFa0MSzFiKBF-tpol0wOxKTw04KJB1Xj3hziQ4aCRb9a73dPib3kSj-JsKCpO63wZBRLAEIxerw6ljE5nGA5qw==
+Unknown content type: image/png
+Iterating 21 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqth1j2waImmxp3FYuKw2kVBIkoarGJktM2TtSC2J78uwnaZObw4-rdnrypZw8y9h1E_sAM0G7pVTCkkuVoimq0Q==
+Size of png url is: 46
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqOovlBfDMSzrno8COKQwaaCt8uZETOaIkrRlYSvdW0lE7JfHUDJHVcXv-FY07JJ84tb0ZECQH5ABxrp_CVOkjVg==
+Unknown content type: image/png
+Iterating 26 times
+Iterating 21 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqEnWjkyuA2EoZBZzLzWONULrLWRi-LIIE6fPXM3in9D1cZVTZJH8bxEy7nvAFKsTPjKTDOLi1IqZBfsTxtjFzBQ==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqdOgw2SYmoKCGvpE7R7IqVny8txxEvnqguBQiSe9Ll4f41V9HHcDgGw12m7XR18_-HXk6GXzALh4QVA8_H_r3DQ==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqERCtkyqVRCjbnoVakr_v91GlK2M-3aPfqizRnw_h5SKZdEeKUGglkrMHYg--ImcRUEFcJmTZGPYZxUyyBMX20Q==
+Size of png url is: 47
+Unknown content type: image/png
+Iterating 21 times
+Iterating 22 times
+Iterating 24 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqbop_r-bv-GcAXp25P0qVJVwrRuQrJozXTpHlFh6TGJPXtp2CZAV13en29GF9wyAmIufltoax_YoIp1KMoisy7Q==
+Size of png url is: 48
+Unknown content type: image/png
+Iterating 23 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqChrAu4v-3qJGgmY2RYeTK1jUhoszLigVxGLad-ND9XemhlgCuaPi9DVlWZaqOo9sY7M0pwvr90dkqRLbZmp5nw==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqa-SLNxxeRz6g8hbukAY6s-snv86AiV_CnMmRl0RUaPtTPGqJ59GhVLJJp-xboyMPsXMrFyPvYr8fZb-2fTCmzQ==
+Unknown content type: image/png
+Iterating 29 times
+Iterating 27 times
+Iterating 22 times
+Iterating 20 times
+Iterating 27 times
+Iterating 23 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqYnqoAyQ63JsGOpkl3FS7URCyJwViRvw8yzSzySAu60-m8z2nyNKQJPGjllznYVBZTqqnT3vOu4mfiz6qJFHU_A==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoquyIz_fThCfw4xeGXrfUvAe5lwVqcKw1YfYbktsh4OyXKiCns80EtzIYGqn_uYdMyoKUcd-Fg9OAGDZcSoVcfyQ==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqMUkP4fdCUpgRdQqvWMVvlp-n8WuV6_Hkn78FkrQO-xqJza1MGj559YmXiukjEnouKpNdeWFuQWlgaiX2Dbb0cA==
+Size of png url is: 49
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq9Z8RdTtoktA-1xxESuhS6D_q3wV5apoPT58_MCY5VjI4pSF3v3mXX_YG0Oa02ASxLs9araYeSv54oEL1Vwj_Lg==
+Size of png url is: 50
+Unknown content type: image/png
+findpng3 execution time: 4.221164 seconds
+Found: 50 pngs
+Confirming that pngs found are valid
+Test Passed: Running with -t 20 -m 100 collected 50 unique, valid pngs +1
+
+-- case 2.3 --
+Found: 348 log entries
+Test Passed: With -t 20 -m 100 visited >= 347 urls +1
+
+======= PART 3 =======
+
+-- case 3.1 --
+>> Running: ./findpng3 -t 5 -m 20 http://ece252-1.uwaterloo.ca/lab4
+Iterating 13 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca/~yqhuang/lab4/imgs/Disguise.png
+Unknown content type: image/png
+No result
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqOKR-cFRCkiCUBEMAAAWfDvBFlRisL9ysLWHYHbcQbn1b28PV_uHBZ0gJf5bvzrnf1HNXxB6KRlAVETwTIqBH2Q==
+Size of png url is: 1
+Unknown content type: image/png
+Iterating 23 times
+Unknown content type: image/jpeg
+Unknown content type: image/jpeg
+Iterating 13 times
+Unknown content type: image/jpeg
+No result
+Iterating 22 times
+No result
+No result
+No result
+No result
+No result
+No result
+Iterating 17 times
+No result
+Unknown content type: text/html; charset=UTF-8
+No result
+No result
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqdRxJhdCk49ofJ1TCxsbV6DF4DIHKtdWsF-5fJM0BHF6b6oM5Y99T7T78SQQcii0YvDMqzGN4L8a4eFsQotIHLA==
+Size of png url is: 2
+Unknown content type: image/png
+Iterating 23 times
+No result
+No result
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqXCN_I78zg0zDjOvOhA19H7tB5L2pSkuG0NmXg4E1LCe1Ew8utkFxulC2ssJUGOYgguCCXcDlOraPK-tYzsMl-w==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq1GsX73XwnpU1qaO1laOtmzl_e3npHIX83pNGFgfOLJG2vwICDD5Gnb7iwdzV_ZKnckzZQfhsmEEeWbvO3-4Kug==
+Unknown content type: image/png
+Unknown content type: text/html; charset=UTF-8
+No result
+Iterating 22 times
+Iterating 20 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqgjR5_sHZbBvNU5YQC04eJomGbOUwfmE1UKLU2hqTMyJwx0JdBm51wjJKRDXiTNMcw4zPQ46aWXsgBauLlLHuCg==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq04iE2NubeV6SQUvgKhxmeeIlm73SvacNUbIahdu9zqPSwrsu7jWhGIFcr_YzpuxCny-pqklqsgP00PpoZt2WqQ==
+Unknown content type: image/png
+No result
+Iterating 22 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqffRXM8b2fsf4GdsWmFBW6IC7U-W87yVu_WWcPDjK86jHIC6vPd3EPwq3OrbwkYPTFs6HN3TA0Sv0d8iXpFlF8A==
+Size of png url is: 3
+Unknown content type: image/png
+No result
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoq0YgAvVszWYxcJFQB2CCtFpkaPPuXFTzYwphoS7GhEuMgkb2J_OngpH8DFLjRSwhAsIVOXj4r7rk8cW933HkgOg==
+Size of png url is: 4
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq07PuL8fqDM5n1nP_Boz5t5mxmmv6UtGjbz9h-lwbvOYOvNXvV8SDKVEbUCnMMRkqU9ikPRv6P2x_B9rnAbwmNQ==
+Unknown content type: image/png
+No result
+No result
+No result
+No result
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqMygTDJVnG3Ex7i1F-yupYZOA688V189sM0dPqdrEvKYrFzk5KpfesMlljky6uKQjZ9_RqM703IzyhYE64GYVKg==
+Size of png url is: 5
+Unknown content type: image/png
+No result
+No result
+No result
+Iterating 20 times
+No result
+No result
+No result
+No result
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq95uzLLKnQXFFbRje7zj-qIFm3ThjVOVB4HcArwGxDeGoAA9duDGD1VxBIzqVYRL6i7m529eBbSwcZUuH7JSXOw==
+Size of png url is: 6
+Unknown content type: image/png
+Unknown content type: text/html; charset=UTF-8
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoq5G4aDniL4Qq2oqRPkqbBpeuL532HGNeDkMbnMeStk6sRtRjOW5pXVTYZftfO_4dMVXEtfMyT6APE_G_oYiiSXg==
+Size of png url is: 7
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoq2z2P0icqsAKhNN1ShRk3VoE4bTiWxKS_b_qZA8AwLWJ-hiyV6MuV1YDLhGQHjWGhAFlYuZlu2yjijdcLAbCPtg==
+Size of png url is: 8
+Unknown content type: image/png
+No result
+Iterating 21 times
+No result
+No result
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqkjdW0rfUZjcMrjQFrMgSk4ZMd9MEL-MkF60HJbuGlyH7dmvoUqOZ7IB4lBylvfc6Ics3bGsgdJRrLVtuHRYxJQ==
+Unknown content type: image/png
+No result
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqyF1KKpXCKBZ6nZbBX6sdqiDexDa3FsCwKVNgbLA1V6BOa9-WmNSZzPFZ9ijA7FQhsCUt0qU8qw0Kjvotk5BmlA==
+Size of png url is: 9
+Unknown content type: image/png
+No result
+Iterating 22 times
+No result
+No result
+No result
+Iterating 27 times
+No result
+No result
+No result
+No result
+No result
+Iterating 22 times
+No result
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqhcbEzYIL2qtPfbuMPXsgDxnxr_wNor8tMkvwkcERzfB-IqlyUYc5kdQDnKNFJK6-MdefgIyZ9evFZkXDgzwtNg==
+Unknown content type: image/png
+No result
+No result
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqptJdYZo35NmT3gdmnyFEVYZD-wgzoKs_seVkWIiRWiDbJR8WZ7_ZT_t7O5UOtPfBn3vfUu7Jr8ySijwyqhDxSA==
+Unknown content type: image/png
+Iterating 21 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqG9TVEn26FECwqFiiTwAbRz4vmiPBFKgJ0V-r53I0LPiPAW9Rv60CBOkJ4kAJNotTHPioq7BEvNilwyTFqkoTpQ==
+Size of png url is: 10
+Unknown content type: image/png
+Iterating 21 times
+No result
+Iterating 20 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqTGHzfjSsQmt4bg-1etvDEKAI4mRmflZI31eB7sf0fIw9w4iShIHU5l2b6G9FxihTql5x94UDIKUnTCJNw6Mp3w==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqV3CmIQBojYioM7cSD-zlkNjtDm0z7ccB_bBkMfEOEmDWWPVa1ONrUPezzx3LXGIZJxuxjvh_vf6K_WQ2MpEr2A==
+Unknown content type: image/png
+No result
+Iterating 26 times
+No result
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqa1qHKwsqHWqeXDEhkwJ5n6_sdcW8cilFpootpnDAGJM0qOwsKP_2SN2BdTBmwHg59VIZpSq0yGwbwvk8a_QWHQ==
+Unknown content type: image/png
+No result
+No result
+No result
+No result
+No result
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqqe1jfuLRX2zltfEz3ZU46ZfTV80YcQZNu1DQf0Q0h1cItIpJXwrcPvAk294Fp7VD6FGWa-Pk2LHq8IV49MnEjg==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqccJVzFa4xmR64yRKpVSE-Ga8NCmaqdPWCm5tn8B13hOK-j1WArjzF2Tpn7HXkuLYKMk9d5MMzR-TenITOZ63tg==
+Size of png url is: 11
+Unknown content type: image/png
+No result
+No result
+No result
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqJ5XKlNHrHGYQYTbmdKyzD8VPNxIb2XXhJ06J3nD8alFxSJZSH_NLF6iddf9sqbj5P8dzJMmU6EYbwctBYK8qRQ==
+Size of png url is: 12
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqH0WGwe9CY_eNtBjdsOsGv9Zu2HDaCeO_VOIb048FS6CGqdXJWnoCbk2a-hykr_N_pj0HRtF7yWi9wpq87k3Y5A==
+Size of png url is: 13
+Unknown content type: image/png
+No result
+Iterating 23 times
+Iterating 19 times
+No result
+No result
+No result
+Iterating 16 times
+Iterating 25 times
+No result
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoquDBE3WK-q07eyV-5lyF2ReG0Q6TWj19ZlvYiWHR_4HUByQ84hhTHeOmduPk99EjRnJaOKrmG0Yo7B_L6iNoeTQ==
+Unknown content type: image/png
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqOVGnSZuaRnEgW6MPVB2gJ6U4vuiqhP74xzAKKUjofCWbqfExEtsLl4M1m80X1A0fwHXP638fzLRnPZoYaZ86xw==
+Unknown content type: image/png
+Iterating 17 times
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqcKL_a8HSquHH2l31XjNtpyLVBstSbqXqdfXoJJ-5EY4MYoPWGFPaB5insiMEPDebf8ZvpgP4yVrQzXFCXEn5mg==
+Size of png url is: 14
+Unknown content type: image/png
+No result
+No result
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqJh74vvn5U0wbJMTdz-d4UtBkYMJiUCgavuMEJR6fIAATaWFjDU_o0x8aAKyPW7Qp3XVCsuzeKARQVCw1Mp_aNQ==
+Unknown content type: image/png
+Iterating 18 times
+Iterating 21 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqgo8YnSJr1mU6zzMBlZBLbvqUQMqVtK3VBBQXLDrXUtAvAjraCPsh6NycXBlxr9DrOtHFqxtq550LlkEXLphCTA==
+Size of png url is: 15
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqUFVDu48UheUKNfQX-u9fLNGuz7mFMd8qHgLphqwVDnuhQvciY3sWnNDZdP91UAAaRJfD0_EOQdKE1ohXVwlNbQ==
+Size of png url is: 16
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqiN59zXwkIrUwyhEt5u5kpqsd6HbcvMUqgEHPeUCS4ozokIpMquhliCM4Yvk-3QWHG1Q17hAKMRen5phUSJJ_yQ==
+Unknown content type: image/png
+Iterating 27 times
+Iterating 23 times
+Iterating 29 times
+Unknown content type: text/html; charset=UTF-8
+Iterating 15 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqnAC-dsY2mioYp0KXZFFBTGGQXL_Wg4HSMe4EztPZ_6XbsWhPuW2avlffmdMSqdKhT4sp-6ISg1urDh1YJy32Rg==
+Size of png url is: 17
+Unknown content type: image/png
+Iterating 27 times
+Iterating 23 times
+Iterating 21 times
+Iterating 27 times
+No result
+Iterating 23 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqNWsAWJajhCG7vNTdO9jpw--ZoEuRu3rbfYD0d4j1FKdPyOJnyyIDudoeABe7O3iZePX1BFZpEe7MSE41dI9BOA==
+Size of png url is: 18
+Unknown content type: image/png
+No result
+No result
+No result
+No result
+No result
+Iterating 20 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqcyu5_cnSJ2l3T0vVa9cClpFg3Gg5WYBS_pOyPRM2C9eFaDymPpDw9svxZkRLCdML0C_Z1UL0Qin2wQpmjBUTnw==
+Size of png url is: 19
+Unknown content type: image/png
+Iterating 21 times
+Iterating 27 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqqNX4UjA2O8tCCL2ZAB4OgeWOK6P0v5XeIQ0O4rFu7PUxF2IhDrfsAon4_2sMZch_V-JVNGbzE4Aa_HLGw1CylA==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqbXHM1MeWQzCIoznLmI5HWVmVhnBnQlSviphCDwJtwyezRqWYjEP_82k9oes-K5MD96FtC1zCGUB1vKlAVfM1AQ==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq-P8RLFLbpz6bqrNQlY2L7pQ3lCyKqfyro3BdadHFazPolfsALNdHhVujp3HNUrc_XElW9BHCOSLHL3UAncDlCw==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq8a_fCBHa_BLE4fRAdtNj08KN7meSOIuWK1vJPXnmbxWz_gkT9GMTkw7_ml_Ba2VdVKpMvqU_QSpJ9NiIjwFtCA==
+Size of png url is: 20
+Unknown content type: image/png
+findpng3 execution time: 7.409565 seconds
+Thread count: 1
+Test Passed: Correctly spawns only 1 thread with -t in [5,20] +1
+
+======= PART 4 =======
+
+-- case 4.1 --
+Test Passed: Student used cURL multi handle +1
+
+======= PART 5 =======
+Running 5 x 3 test cases for timings test
+Executions are:
+>> ./findpng3 -t 1 -m 20
+>> ./findpng3 -t 10 -m 20
+>> ./findpng3 -t 20 -m 20
+Beginning...
+1 Worker
+ avg (5 runs):29.91
+10 Workers:
+ avg (5 runs):3.97
+20 Workers:
+ avg (5 runs):2.35
+
+-- case 5.1 --
+Test Passed: Running with -t20 was >= 16x faster than -t1 (or took <= 2.4s) +1
+
+-- case 5.2 --
+Test Passed: Running with -t10 was >= 8x faster than -t1 (or took <= 4.8s) +1
+
+======= PART 6 =======
+Running 3 test cases for results test
+>> Running: ./findpng3 -t 20 -m 3 -v log.txt http://ece252-1.uwaterloo.ca/lab4
+Iterating 13 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca/~yqhuang/lab4/imgs/Disguise.png
+Unknown content type: image/png
+Unknown content type: image/jpeg
+Unknown content type: image/jpeg
+Unknown content type: image/jpeg
+Iterating 13 times
+No result
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqOKR-cFRCkiCUBEMAAAWfDvBFlRisL9ysLWHYHbcQbn1b28PV_uHBZ0gJf5bvzrnf1HNXxB6KRlAVETwTIqBH2Q==
+Size of png url is: 1
+Unknown content type: image/png
+Iterating 23 times
+Unknown content type: text/html; charset=UTF-8
+No result
+Iterating 22 times
+No result
+No result
+Iterating 17 times
+No result
+No result
+No result
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqdRxJhdCk49ofJ1TCxsbV6DF4DIHKtdWsF-5fJM0BHF6b6oM5Y99T7T78SQQcii0YvDMqzGN4L8a4eFsQotIHLA==
+Size of png url is: 2
+Unknown content type: image/png
+No result
+Iterating 23 times
+No result
+No result
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqXCN_I78zg0zDjOvOhA19H7tB5L2pSkuG0NmXg4E1LCe1Ew8utkFxulC2ssJUGOYgguCCXcDlOraPK-tYzsMl-w==
+Unknown content type: image/png
+No result
+No result
+No result
+Unknown content type: text/html; charset=UTF-8
+Iterating 22 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq1GsX73XwnpU1qaO1laOtmzl_e3npHIX83pNGFgfOLJG2vwICDD5Gnb7iwdzV_ZKnckzZQfhsmEEeWbvO3-4Kug==
+Unknown content type: image/png
+Iterating 20 times
+No result
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqgjR5_sHZbBvNU5YQC04eJomGbOUwfmE1UKLU2hqTMyJwx0JdBm51wjJKRDXiTNMcw4zPQ46aWXsgBauLlLHuCg==
+Unknown content type: image/png
+No result
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoq0YgAvVszWYxcJFQB2CCtFpkaPPuXFTzYwphoS7GhEuMgkb2J_OngpH8DFLjRSwhAsIVOXj4r7rk8cW933HkgOg==
+Size of png url is: 3
+Unknown content type: image/png
+findpng3 execution time: 0.851990 seconds
+>> Running: ./findpng3 -t 20 -m 50 -v log.txt http://ece252-1.uwaterloo.ca/lab4
+Iterating 13 times
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca/~yqhuang/lab4/imgs/Disguise.png
+Unknown content type: image/png
+Unknown content type: image/jpeg
+Unknown content type: image/jpeg
+Unknown content type: image/jpeg
+Iterating 13 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqOKR-cFRCkiCUBEMAAAWfDvBFlRisL9ysLWHYHbcQbn1b28PV_uHBZ0gJf5bvzrnf1HNXxB6KRlAVETwTIqBH2Q==
+Size of png url is: 1
+Unknown content type: image/png
+Iterating 23 times
+Unknown content type: text/html; charset=UTF-8
+No result
+Iterating 22 times
+No result
+No result
+Iterating 17 times
+No result
+No result
+No result
+No result
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqdRxJhdCk49ofJ1TCxsbV6DF4DIHKtdWsF-5fJM0BHF6b6oM5Y99T7T78SQQcii0YvDMqzGN4L8a4eFsQotIHLA==
+Size of png url is: 2
+Unknown content type: image/png
+No result
+No result
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqXCN_I78zg0zDjOvOhA19H7tB5L2pSkuG0NmXg4E1LCe1Ew8utkFxulC2ssJUGOYgguCCXcDlOraPK-tYzsMl-w==
+Unknown content type: image/png
+Iterating 23 times
+No result
+No result
+No result
+Unknown content type: text/html; charset=UTF-8
+Iterating 22 times
+Iterating 20 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqgjR5_sHZbBvNU5YQC04eJomGbOUwfmE1UKLU2hqTMyJwx0JdBm51wjJKRDXiTNMcw4zPQ46aWXsgBauLlLHuCg==
+Unknown content type: image/png
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq1GsX73XwnpU1qaO1laOtmzl_e3npHIX83pNGFgfOLJG2vwICDD5Gnb7iwdzV_ZKnckzZQfhsmEEeWbvO3-4Kug==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqffRXM8b2fsf4GdsWmFBW6IC7U-W87yVu_WWcPDjK86jHIC6vPd3EPwq3OrbwkYPTFs6HN3TA0Sv0d8iXpFlF8A==
+Size of png url is: 3
+Unknown content type: image/png
+No result
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoq0YgAvVszWYxcJFQB2CCtFpkaPPuXFTzYwphoS7GhEuMgkb2J_OngpH8DFLjRSwhAsIVOXj4r7rk8cW933HkgOg==
+Size of png url is: 4
+Unknown content type: image/png
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq04iE2NubeV6SQUvgKhxmeeIlm73SvacNUbIahdu9zqPSwrsu7jWhGIFcr_YzpuxCny-pqklqsgP00PpoZt2WqQ==
+Unknown content type: image/png
+No result
+Iterating 22 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq07PuL8fqDM5n1nP_Boz5t5mxmmv6UtGjbz9h-lwbvOYOvNXvV8SDKVEbUCnMMRkqU9ikPRv6P2x_B9rnAbwmNQ==
+Unknown content type: image/png
+No result
+No result
+No result
+Unknown content type: text/html; charset=UTF-8
+Iterating 20 times
+No result
+No result
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoq5G4aDniL4Qq2oqRPkqbBpeuL532HGNeDkMbnMeStk6sRtRjOW5pXVTYZftfO_4dMVXEtfMyT6APE_G_oYiiSXg==
+Size of png url is: 5
+Unknown content type: image/png
+No result
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq95uzLLKnQXFFbRje7zj-qIFm3ThjVOVB4HcArwGxDeGoAA9duDGD1VxBIzqVYRL6i7m529eBbSwcZUuH7JSXOw==
+Size of png url is: 6
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqMygTDJVnG3Ex7i1F-yupYZOA688V189sM0dPqdrEvKYrFzk5KpfesMlljky6uKQjZ9_RqM703IzyhYE64GYVKg==
+Size of png url is: 7
+Unknown content type: image/png
+No result
+No result
+No result
+No result
+No result
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqkjdW0rfUZjcMrjQFrMgSk4ZMd9MEL-MkF60HJbuGlyH7dmvoUqOZ7IB4lBylvfc6Ics3bGsgdJRrLVtuHRYxJQ==
+Unknown content type: image/png
+No result
+Iterating 21 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoq2z2P0icqsAKhNN1ShRk3VoE4bTiWxKS_b_qZA8AwLWJ-hiyV6MuV1YDLhGQHjWGhAFlYuZlu2yjijdcLAbCPtg==
+Size of png url is: 8
+Unknown content type: image/png
+No result
+No result
+No result
+No result
+Iterating 22 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqyF1KKpXCKBZ6nZbBX6sdqiDexDa3FsCwKVNgbLA1V6BOa9-WmNSZzPFZ9ijA7FQhsCUt0qU8qw0Kjvotk5BmlA==
+Size of png url is: 9
+Unknown content type: image/png
+No result
+No result
+No result
+No result
+No result
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqhcbEzYIL2qtPfbuMPXsgDxnxr_wNor8tMkvwkcERzfB-IqlyUYc5kdQDnKNFJK6-MdefgIyZ9evFZkXDgzwtNg==
+Unknown content type: image/png
+Iterating 27 times
+No result
+No result
+No result
+No result
+Iterating 22 times
+No result
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqptJdYZo35NmT3gdmnyFEVYZD-wgzoKs_seVkWIiRWiDbJR8WZ7_ZT_t7O5UOtPfBn3vfUu7Jr8ySijwyqhDxSA==
+Unknown content type: image/png
+No result
+No result
+No result
+No result
+Iterating 21 times
+Iterating 21 times
+Iterating 20 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqG9TVEn26FECwqFiiTwAbRz4vmiPBFKgJ0V-r53I0LPiPAW9Rv60CBOkJ4kAJNotTHPioq7BEvNilwyTFqkoTpQ==
+Size of png url is: 10
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqTGHzfjSsQmt4bg-1etvDEKAI4mRmflZI31eB7sf0fIw9w4iShIHU5l2b6G9FxihTql5x94UDIKUnTCJNw6Mp3w==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqV3CmIQBojYioM7cSD-zlkNjtDm0z7ccB_bBkMfEOEmDWWPVa1ONrUPezzx3LXGIZJxuxjvh_vf6K_WQ2MpEr2A==
+Unknown content type: image/png
+No result
+Iterating 26 times
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqa1qHKwsqHWqeXDEhkwJ5n6_sdcW8cilFpootpnDAGJM0qOwsKP_2SN2BdTBmwHg59VIZpSq0yGwbwvk8a_QWHQ==
+Unknown content type: image/png
+No result
+No result
+No result
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqqe1jfuLRX2zltfEz3ZU46ZfTV80YcQZNu1DQf0Q0h1cItIpJXwrcPvAk294Fp7VD6FGWa-Pk2LHq8IV49MnEjg==
+Unknown content type: image/png
+No result
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqJ5XKlNHrHGYQYTbmdKyzD8VPNxIb2XXhJ06J3nD8alFxSJZSH_NLF6iddf9sqbj5P8dzJMmU6EYbwctBYK8qRQ==
+Size of png url is: 11
+Unknown content type: image/png
+No result
+No result
+No result
+No result
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqccJVzFa4xmR64yRKpVSE-Ga8NCmaqdPWCm5tn8B13hOK-j1WArjzF2Tpn7HXkuLYKMk9d5MMzR-TenITOZ63tg==
+Size of png url is: 12
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqH0WGwe9CY_eNtBjdsOsGv9Zu2HDaCeO_VOIb048FS6CGqdXJWnoCbk2a-hykr_N_pj0HRtF7yWi9wpq87k3Y5A==
+Size of png url is: 13
+Unknown content type: image/png
+Iterating 23 times
+Iterating 19 times
+No result
+Iterating 16 times
+No result
+No result
+No result
+Iterating 25 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqOVGnSZuaRnEgW6MPVB2gJ6U4vuiqhP74xzAKKUjofCWbqfExEtsLl4M1m80X1A0fwHXP638fzLRnPZoYaZ86xw==
+Unknown content type: image/png
+Iterating 17 times
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqcKL_a8HSquHH2l31XjNtpyLVBstSbqXqdfXoJJ-5EY4MYoPWGFPaB5insiMEPDebf8ZvpgP4yVrQzXFCXEn5mg==
+Size of png url is: 14
+Unknown content type: image/png
+Iterating 15 times
+No result
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoquDBE3WK-q07eyV-5lyF2ReG0Q6TWj19ZlvYiWHR_4HUByQ84hhTHeOmduPk99EjRnJaOKrmG0Yo7B_L6iNoeTQ==
+Unknown content type: image/png
+No result
+No result
+Iterating 18 times
+Iterating 21 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqJh74vvn5U0wbJMTdz-d4UtBkYMJiUCgavuMEJR6fIAATaWFjDU_o0x8aAKyPW7Qp3XVCsuzeKARQVCw1Mp_aNQ==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqgo8YnSJr1mU6zzMBlZBLbvqUQMqVtK3VBBQXLDrXUtAvAjraCPsh6NycXBlxr9DrOtHFqxtq550LlkEXLphCTA==
+Size of png url is: 15
+Unknown content type: image/png
+Iterating 29 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqUFVDu48UheUKNfQX-u9fLNGuz7mFMd8qHgLphqwVDnuhQvciY3sWnNDZdP91UAAaRJfD0_EOQdKE1ohXVwlNbQ==
+Size of png url is: 16
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqiN59zXwkIrUwyhEt5u5kpqsd6HbcvMUqgEHPeUCS4ozokIpMquhliCM4Yvk-3QWHG1Q17hAKMRen5phUSJJ_yQ==
+Unknown content type: image/png
+Iterating 27 times
+Iterating 23 times
+No result
+Unknown content type: text/html; charset=UTF-8
+No result
+Iterating 23 times
+No result
+No result
+No result
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqnAC-dsY2mioYp0KXZFFBTGGQXL_Wg4HSMe4EztPZ_6XbsWhPuW2avlffmdMSqdKhT4sp-6ISg1urDh1YJy32Rg==
+Size of png url is: 17
+Unknown content type: image/png
+Iterating 21 times
+Iterating 27 times
+Iterating 27 times
+Iterating 20 times
+Iterating 23 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqNWsAWJajhCG7vNTdO9jpw--ZoEuRu3rbfYD0d4j1FKdPyOJnyyIDudoeABe7O3iZePX1BFZpEe7MSE41dI9BOA==
+Size of png url is: 18
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqcyu5_cnSJ2l3T0vVa9cClpFg3Gg5WYBS_pOyPRM2C9eFaDymPpDw9svxZkRLCdML0C_Z1UL0Qin2wQpmjBUTnw==
+Size of png url is: 19
+Unknown content type: image/png
+Iterating 21 times
+Unknown content type: text/html; charset=UTF-8
+Iterating 27 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqqNX4UjA2O8tCCL2ZAB4OgeWOK6P0v5XeIQ0O4rFu7PUxF2IhDrfsAon4_2sMZch_V-JVNGbzE4Aa_HLGw1CylA==
+Unknown content type: image/png
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqbXHM1MeWQzCIoznLmI5HWVmVhnBnQlSviphCDwJtwyezRqWYjEP_82k9oes-K5MD96FtC1zCGUB1vKlAVfM1AQ==
+Unknown content type: image/png
+Iterating 24 times
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq-P8RLFLbpz6bqrNQlY2L7pQ3lCyKqfyro3BdadHFazPolfsALNdHhVujp3HNUrc_XElW9BHCOSLHL3UAncDlCw==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq8a_fCBHa_BLE4fRAdtNj08KN7meSOIuWK1vJPXnmbxWz_gkT9GMTkw7_ml_Ba2VdVKpMvqU_QSpJ9NiIjwFtCA==
+Size of png url is: 20
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqlbCiDX5b-a3W54nFrTdOJ02a7RbAgwnpArG5_4cSt26a6ps3P63H1tNXc7_2cKjW-5Xpjy9Cv8fAuj2-94dD3g==
+Size of png url is: 21
+Unknown content type: image/png
+Iterating 19 times
+No result
+No result
+No result
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqSwLdnTCpgy27SzAN1Zz9BYWzoLfmB4uk17MLQk2fr_RJO4UKPFN4bl_sj4daScDvVxwCxUu20ZyfjG8tOjrOZg==
+Unknown content type: image/png
+No result
+Iterating 15 times
+No result
+No result
+Iterating 17 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqHxfpDH87RCKWTHVXSECFOPleulDZQbasEch1iWOldZhEuz_yLee9rZSkksALml54i7f34lZFpX_M5S2NK2FTCw==
+Size of png url is: 22
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqOPRLPGzSiwHSdKrbejXV9DuijiB7HvMIiV6S8kE1M-xsUWFhNooanGd5qVL38aIqfB5O98WTMybt18cGA_P6FA==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqW44GmfDp3HcTDEoHs2fxqfEsCTHOpIiH3JHhBbfrs_OkiWcpEQK2rqDZSsGol85fF56uKLJFvedQEbgZvukwcA==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqfx__BLakfks3yEeAqoDRifEHzP52pQPdYV_vObS6A0ip-_2rfsfClWJO9IQiyTgDc45RPWEAhhwZas5NOGGDeQ==
+Unknown content type: image/png
+Iterating 19 times
+Iterating 22 times
+Iterating 16 times
+No result
+No result
+No result
+Iterating 26 times
+No result
+No result
+No result
+No result
+Iterating 25 times
+No result
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoq7gQan3cJFYjgEX4Q51s_IZeJahw5erGFAtEyFqT5cjCEAjK1TYRB5B6ifKrs58uenf37CspuwDbTnyz3737VQQ==
+Unknown content type: image/png
+Iterating 18 times
+Iterating 19 times
+Iterating 18 times
+Iterating 19 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq12a1y9KUsnVwBbMvmnrciODR4DVDP8BsN9oe-e_Mfp0X8ghUrgUAokJvNU7ECA7y7kQpRTiWuP-tMuLVLiUjLQ==
+Size of png url is: 23
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqnmj0uxlL9N_MOM4W9SHuG3Bv1GyyjC2slgkHU6HGVjDUWJ5Hry9FnQbkvTr21z79DFqZnzpRQ_TJm3dnFrFipw==
+Size of png url is: 24
+Unknown content type: image/png
+Iterating 25 times
+Iterating 20 times
+Iterating 20 times
+Iterating 27 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqL9LRuHk7JF7cBx-hVADRTJCdjjs0or5ItVqFsYcwwCgdiCP7LioEm5vDYlN520W5833KcratYKQCFaCjTxnO2w==
+Size of png url is: 25
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqZ06nqQtsvZ8Kd5-MROGMwRYTXXGWsBtuicrp5lKDpagJ6xGb5E8fDyoCo0Ps-JtdVvVEBsKJ8p4nFSx4AJaOZA==
+Size of png url is: 26
+Unknown content type: image/png
+No result
+Iterating 20 times
+Iterating 25 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqzO138B7PbKCBJ_88hN_yAsDGqM3eByyNwSvEndh0pnw8ZuhKPWIp-aZehTBOYltpYkDeuw4NV-P3p4tdJKMVMw==
+Unknown content type: image/png
+Iterating 22 times
+Iterating 24 times
+No result
+Iterating 24 times
+Iterating 25 times
+Iterating 19 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqFm-hGmNXulpcdwG2lDPM-iPTE4i0auOJzwxb5AnCj8uySznoi-LvmRoLsjMsBhaQevW2-dSWIgkv556CKh5hCw==
+Unknown content type: image/png
+Iterating 16 times
+Iterating 26 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq0srT9FjOpjzwrwLfFizKEVax4JogTWG7giEBrvZAmviruUbXVU6TgEJG-r0fxLhw0rgvPDorqCp0iMelP-ECbA==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqaiI_243Hz-JXReQJKhL79samKQKt0e-JN8SvaxSopyH0OFI8981P-KrUlucYcXKmfIN9RHM2Q-_R58tLfSVydw==
+Size of png url is: 27
+Unknown content type: image/png
+No result
+Iterating 23 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqq3BxZfCnvoj1qmF7NeMZqk2cP1b9Ycsv7EHL5ZsYYcsdzuKR8HulpVOF11SNEJ7auMuhfo0YDItv6r24gBI50g==
+Size of png url is: 28
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqny_HA63DcoFH6SKrgtrl4Ytq5S1UID0ydcwabB65Se4yekCRZ_wfmx0pZdC7UtrIw-IgC7JS4xQKadeJqQ7OpQ==
+Unknown content type: image/png
+Iterating 26 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqT7tyKcy_ZbWe0AURY60Ch3yHQZt64dmU_vskpw1nGNZx__CddiJwU_ozzUshIZipMCGpp9rwe1pWT4Ny8w4xEQ==
+Size of png url is: 29
+Unknown content type: image/png
+No result
+Iterating 28 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoq-eTw_rpW7aW7Aqp7X79B1icwl5NKjSpSVRw9uhONrg1qsv2biNyWVXCIlC1UNcfibFfNX3ou34YcaLH_yEWZ3w==
+Size of png url is: 30
+Unknown content type: image/png
+Iterating 19 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqiiGC9giS8uS6D6aAraz9kWgpjluJMTdwRj8VC5COebfvIwofnWRk1DWL-BN3VmwXAwutJ89vRA0Q8iCmQtqxtg==
+Size of png url is: 31
+Unknown content type: image/png
+Iterating 17 times
+No result
+Iterating 26 times
+Iterating 23 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqf4ZaziO9hQbcSzRKIkt2tBexZsA89foKy05t_Bs_FmunbWysMSjpASncgIMb9MybFO3ge9EYLzdNNeXoN85aww==
+Size of png url is: 32
+Unknown content type: image/png
+Iterating 19 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoq4TX4OR0-xDPwa8a6looPtS-hdpubAfl7pzbc34O_fttreU8mGkJtOguT1ME-irP9WtMn06ehL59Sa3rV2m-ZgQ==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqGd7UrFBhWrUaWMssY-MAuGjIxYVur9watlrpWPwTOkVFA1T8sFuqYKCfystNh6RyE6BFu_UQ_QZpNAZQkx22Aw==
+Size of png url is: 33
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqYQXrORR1PHeT9YKz0yJFE66gkOBsQcRZx2qQ-Sxvv-7V-YMmnwY99C-FnzB0WGyz9oc2sootaVTkiffjd5p2SA==
+Size of png url is: 34
+Unknown content type: image/png
+Iterating 20 times
+Iterating 25 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqjfvwVPlPowd8jdAn8FpeUobBHXralnARDqT9BVXw4k1f7V35hhlAvL-eb_yrDE_bcphYp5k0EWtLjJeR-cPwtA==
+Size of png url is: 35
+Unknown content type: image/png
+Iterating 23 times
+Iterating 21 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqNyhy0eFLBXWbaeGTRcU8oIaSCecnWrYxqXRoYbxmmXIDbfThyJryFCY1GijcayTuSX2Qq55eTMV7bkqOzNc1AA==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqNlb24OOyW_IOhXJn3-sWtGsGFjOUHBs9cmNC47NakGDzkSB4mVOELBv7uzl4y5C_yX3dbr0101tZJLJYixkgHg==
+Size of png url is: 36
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqA3d4BNSMuu9sHQKLKj0-eSwTfVJJcMxBsma-PR6KGQanRREt0gjQGX5Lj1vZB_8NnU0d5zVoW0zIxQcB36X-Fg==
+Unknown content type: image/png
+Iterating 28 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqpZcK246XF93AIlS-2FVxOSt7kSYkO1s2y0lsqwzCgZyPQ6EVNfa7Ok0RYG3n2jnzMeozr58l9AEs7VRUevNpQA==
+Size of png url is: 37
+Unknown content type: image/png
+Iterating 20 times
+Iterating 23 times
+Iterating 22 times
+Iterating 27 times
+Iterating 25 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqcJUYRa9Jn5wyKKK20XQdHssuv-8yOKGRafaUNtGnVeSgq1tiWRTJKzUgznSSGaxDU6EPGEK1x9NOBjU4fORTtA==
+Unknown content type: image/png
+Iterating 21 times
+Iterating 16 times
+Unknown content type: text/html; charset=UTF-8
+No result
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoq01rkVkQjaeDmUS74YgpoAYouZhh90fUxB6VSDWbpFCBFW33WkG7EzOgwZAXEguFPp1c_7ZyAqD8Iv65pZvGr_g==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoq_jZ6zKbsB8-h6ymyqpIbdvOWlZnhDYslAKpAeZemQ-xUpAxWYrwOKkyoxyUU5BvzYBfOIvxqH5YrgcDivbnFmw==
+Size of png url is: 38
+Unknown content type: image/png
+Iterating 15 times
+No result
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqYs5s56JbI8p4kgUs2Yt18Ag7uwAZ7JV9neAf4zTeg3o6Judx0-91bDxWomBkRoqZ7qW2M62pvW3X4h95yikmFA==
+Size of png url is: 39
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqb9ZaJ3q4dlzEvTgG9WYwKcD9Aw7OUXeFicO-5M5IdNDjHBpKw7KBK3nCVqtuga4yzUaFEpJn8BqA1LzZprIJBw==
+Size of png url is: 40
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqxAc9LzhwJvhBo4OYBZXvyy2yILJYWzAvpRvggrrPfGzZ5cRoWz8CVh8HAlN12vF7spuETJjUsmH7B2HkSgY-AA==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqohtRavtxROdkHkjdg5-Qds9yiyyjsLmCOZAyj6py9KDC3HG59pR87oWCPSpVH652UGEqaTYsC8tgNc7C7kDQYw==
+Size of png url is: 41
+Unknown content type: image/png
+Iterating 25 times
+Iterating 26 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqKpeuOY-q44PQvM41wYM4ZeGu0j2wer5aWP4tCvpRCEMoNoCJBluQSln6R_g7imGtqnWBaG_6NmC6jwY6i7g3qQ==
+Size of png url is: 42
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqL_c-9JxDIvINtKeBS9-DJ8fUTufX-3rP8KbuX0cOVBcX2Ji5MY2nIQNBJzFVMu3Zgr6lttkG6JZAueSOdH6x6g==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq-pP0U15bygWdzAsdy_ZpOY8pHnECaju2IKgXvFCkPIrW81kzaEAe6AiDHqspyb0ayFQQqlfHKTVkpyoZ1d9usQ==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqDFa0MSzFiKBF-tpol0wOxKTw04KJB1Xj3hziQ4aCRb9a73dPib3kSj-JsKCpO63wZBRLAEIxerw6ljE5nGA5qw==
+Unknown content type: image/png
+Unknown content type: text/html; charset=UTF-8
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqUihgi-nstsLJKLILaSUNGx36Ubi4PmJZHFuy9UB01JbXrAbc0tudjRqNWmTOhs_UOV1ZHTxJBETWfiTfy_W1jw==
+Unknown content type: image/png
+Iterating 23 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqq9WviNatk9lUiimwcj8a6Mz57aHe6qCRptMnpm6xB02Z_FElFnGSSu4M3sAD5UpoNnf8Ratak4iq0CuKThGnug==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqav1Kdiw1sKgCtkng9xg0Zyiyvhd3DrosEFgqg3Prqnw6H3SwlotULiad5cBOAqVe8gwKXzTVGzk9dx85sz_OPQ==
+Size of png url is: 43
+Unknown content type: image/png
+Iterating 24 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqWGbq2k80cGaapxeTIlfH_IIeRzM_NlYysNg8pUnqdTMblbKVvvsb1_mZ6HzwFmofDF1ikgx2av_4yafJLBlwow==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqS9JZ1mhvwHbuCJLZAhAf6BW3GL2shQEsemd5YDvBpOOnKBbfXoj2BX-v5Yrsnb3lcPz3XQc751PIKY-5EckiRg==
+Size of png url is: 44
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqOovlBfDMSzrno8COKQwaaCt8uZETOaIkrRlYSvdW0lE7JfHUDJHVcXv-FY07JJ84tb0ZECQH5ABxrp_CVOkjVg==
+Unknown content type: image/png
+Iterating 21 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqZ9Q5CWEe_l2tUpoA9sZdOAqkr21C9g-pUcFJpNSAV2Uav9IwoZmavFcEloh3auR1EJ2oYnYhw2RiD3o9TAe-bA==
+Size of png url is: 45
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqth1j2waImmxp3FYuKw2kVBIkoarGJktM2TtSC2J78uwnaZObw4-rdnrypZw8y9h1E_sAM0G7pVTCkkuVoimq0Q==
+Size of png url is: 46
+Unknown content type: image/png
+Iterating 26 times
+Iterating 27 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqEnWjkyuA2EoZBZzLzWONULrLWRi-LIIE6fPXM3in9D1cZVTZJH8bxEy7nvAFKsTPjKTDOLi1IqZBfsTxtjFzBQ==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqdOgw2SYmoKCGvpE7R7IqVny8txxEvnqguBQiSe9Ll4f41V9HHcDgGw12m7XR18_-HXk6GXzALh4QVA8_H_r3DQ==
+Unknown content type: image/png
+Iterating 21 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqERCtkyqVRCjbnoVakr_v91GlK2M-3aPfqizRnw_h5SKZdEeKUGglkrMHYg--ImcRUEFcJmTZGPYZxUyyBMX20Q==
+Size of png url is: 47
+Unknown content type: image/png
+Iterating 24 times
+Iterating 22 times
+Iterating 21 times
+Iterating 23 times
+Iterating 29 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqbop_r-bv-GcAXp25P0qVJVwrRuQrJozXTpHlFh6TGJPXtp2CZAV13en29GF9wyAmIufltoax_YoIp1KMoisy7Q==
+Size of png url is: 48
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqa-SLNxxeRz6g8hbukAY6s-snv86AiV_CnMmRl0RUaPtTPGqJ59GhVLJJp-xboyMPsXMrFyPvYr8fZb-2fTCmzQ==
+Unknown content type: image/png
+Iterating 27 times
+Iterating 20 times
+Iterating 22 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqChrAu4v-3qJGgmY2RYeTK1jUhoszLigVxGLad-ND9XemhlgCuaPi9DVlWZaqOo9sY7M0pwvr90dkqRLbZmp5nw==
+Unknown content type: image/png
+Iterating 27 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqMUkP4fdCUpgRdQqvWMVvlp-n8WuV6_Hkn78FkrQO-xqJza1MGj559YmXiukjEnouKpNdeWFuQWlgaiX2Dbb0cA==
+Size of png url is: 49
+Unknown content type: image/png
+Iterating 23 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoquyIz_fThCfw4xeGXrfUvAe5lwVqcKw1YfYbktsh4OyXKiCns80EtzIYGqn_uYdMyoKUcd-Fg9OAGDZcSoVcfyQ==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqYnqoAyQ63JsGOpkl3FS7URCyJwViRvw8yzSzySAu60-m8z2nyNKQJPGjllznYVBZTqqnT3vOu4mfiz6qJFHU_A==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq9Z8RdTtoktA-1xxESuhS6D_q3wV5apoPT58_MCY5VjI4pSF3v3mXX_YG0Oa02ASxLs9araYeSv54oEL1Vwj_Lg==
+Size of png url is: 50
+Unknown content type: image/png
+findpng3 execution time: 4.255456 seconds
+>> Running: ./findpng3 -t 20 -m 100 -v log.txt http://ece252-1.uwaterloo.ca/lab4
+Iterating 13 times
+No result
+Unknown content type: image/jpeg
+Unknown content type: image/jpeg
+Unknown content type: image/jpeg
+Iterating 13 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca/~yqhuang/lab4/imgs/Disguise.png
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqOKR-cFRCkiCUBEMAAAWfDvBFlRisL9ysLWHYHbcQbn1b28PV_uHBZ0gJf5bvzrnf1HNXxB6KRlAVETwTIqBH2Q==
+Size of png url is: 1
+Unknown content type: image/png
+Iterating 23 times
+Unknown content type: text/html; charset=UTF-8
+No result
+No result
+Iterating 17 times
+No result
+No result
+No result
+Iterating 22 times
+No result
+No result
+No result
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqXCN_I78zg0zDjOvOhA19H7tB5L2pSkuG0NmXg4E1LCe1Ew8utkFxulC2ssJUGOYgguCCXcDlOraPK-tYzsMl-w==
+Unknown content type: image/png
+No result
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqdRxJhdCk49ofJ1TCxsbV6DF4DIHKtdWsF-5fJM0BHF6b6oM5Y99T7T78SQQcii0YvDMqzGN4L8a4eFsQotIHLA==
+Size of png url is: 2
+Unknown content type: image/png
+Iterating 23 times
+No result
+No result
+No result
+Iterating 22 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq1GsX73XwnpU1qaO1laOtmzl_e3npHIX83pNGFgfOLJG2vwICDD5Gnb7iwdzV_ZKnckzZQfhsmEEeWbvO3-4Kug==
+Unknown content type: image/png
+Iterating 20 times
+No result
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoq0YgAvVszWYxcJFQB2CCtFpkaPPuXFTzYwphoS7GhEuMgkb2J_OngpH8DFLjRSwhAsIVOXj4r7rk8cW933HkgOg==
+Size of png url is: 3
+Unknown content type: image/png
+No result
+No result
+No result
+Iterating 20 times
+No result
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqMygTDJVnG3Ex7i1F-yupYZOA688V189sM0dPqdrEvKYrFzk5KpfesMlljky6uKQjZ9_RqM703IzyhYE64GYVKg==
+Size of png url is: 4
+Unknown content type: image/png
+No result
+No result
+No result
+No result
+No result
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq95uzLLKnQXFFbRje7zj-qIFm3ThjVOVB4HcArwGxDeGoAA9duDGD1VxBIzqVYRL6i7m529eBbSwcZUuH7JSXOw==
+Size of png url is: 5
+Unknown content type: image/png
+No result
+Unknown content type: text/html; charset=UTF-8
+Unknown content type: text/html; charset=UTF-8
+No result
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqgjR5_sHZbBvNU5YQC04eJomGbOUwfmE1UKLU2hqTMyJwx0JdBm51wjJKRDXiTNMcw4zPQ46aWXsgBauLlLHuCg==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq04iE2NubeV6SQUvgKhxmeeIlm73SvacNUbIahdu9zqPSwrsu7jWhGIFcr_YzpuxCny-pqklqsgP00PpoZt2WqQ==
+Unknown content type: image/png
+No result
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqffRXM8b2fsf4GdsWmFBW6IC7U-W87yVu_WWcPDjK86jHIC6vPd3EPwq3OrbwkYPTFs6HN3TA0Sv0d8iXpFlF8A==
+Size of png url is: 6
+Unknown content type: image/png
+No result
+Iterating 22 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq07PuL8fqDM5n1nP_Boz5t5mxmmv6UtGjbz9h-lwbvOYOvNXvV8SDKVEbUCnMMRkqU9ikPRv6P2x_B9rnAbwmNQ==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoq5G4aDniL4Qq2oqRPkqbBpeuL532HGNeDkMbnMeStk6sRtRjOW5pXVTYZftfO_4dMVXEtfMyT6APE_G_oYiiSXg==
+Size of png url is: 7
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoq2z2P0icqsAKhNN1ShRk3VoE4bTiWxKS_b_qZA8AwLWJ-hiyV6MuV1YDLhGQHjWGhAFlYuZlu2yjijdcLAbCPtg==
+Size of png url is: 8
+Unknown content type: image/png
+No result
+No result
+Iterating 21 times
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqkjdW0rfUZjcMrjQFrMgSk4ZMd9MEL-MkF60HJbuGlyH7dmvoUqOZ7IB4lBylvfc6Ics3bGsgdJRrLVtuHRYxJQ==
+Unknown content type: image/png
+No result
+Iterating 22 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqyF1KKpXCKBZ6nZbBX6sdqiDexDa3FsCwKVNgbLA1V6BOa9-WmNSZzPFZ9ijA7FQhsCUt0qU8qw0Kjvotk5BmlA==
+Size of png url is: 9
+Unknown content type: image/png
+No result
+No result
+No result
+No result
+No result
+No result
+No result
+No result
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqhcbEzYIL2qtPfbuMPXsgDxnxr_wNor8tMkvwkcERzfB-IqlyUYc5kdQDnKNFJK6-MdefgIyZ9evFZkXDgzwtNg==
+Unknown content type: image/png
+Iterating 27 times
+Iterating 22 times
+No result
+No result
+No result
+No result
+No result
+No result
+No result
+No result
+Iterating 20 times
+No result
+No result
+No result
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqa1qHKwsqHWqeXDEhkwJ5n6_sdcW8cilFpootpnDAGJM0qOwsKP_2SN2BdTBmwHg59VIZpSq0yGwbwvk8a_QWHQ==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqqe1jfuLRX2zltfEz3ZU46ZfTV80YcQZNu1DQf0Q0h1cItIpJXwrcPvAk294Fp7VD6FGWa-Pk2LHq8IV49MnEjg==
+Unknown content type: image/png
+No result
+No result
+No result
+No result
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqccJVzFa4xmR64yRKpVSE-Ga8NCmaqdPWCm5tn8B13hOK-j1WArjzF2Tpn7HXkuLYKMk9d5MMzR-TenITOZ63tg==
+Size of png url is: 10
+Unknown content type: image/png
+Iterating 21 times
+No result
+No result
+No result
+Iterating 21 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqptJdYZo35NmT3gdmnyFEVYZD-wgzoKs_seVkWIiRWiDbJR8WZ7_ZT_t7O5UOtPfBn3vfUu7Jr8ySijwyqhDxSA==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqG9TVEn26FECwqFiiTwAbRz4vmiPBFKgJ0V-r53I0LPiPAW9Rv60CBOkJ4kAJNotTHPioq7BEvNilwyTFqkoTpQ==
+Size of png url is: 11
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqJ5XKlNHrHGYQYTbmdKyzD8VPNxIb2XXhJ06J3nD8alFxSJZSH_NLF6iddf9sqbj5P8dzJMmU6EYbwctBYK8qRQ==
+Size of png url is: 12
+Unknown content type: image/png
+Iterating 19 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqTGHzfjSsQmt4bg-1etvDEKAI4mRmflZI31eB7sf0fIw9w4iShIHU5l2b6G9FxihTql5x94UDIKUnTCJNw6Mp3w==
+Unknown content type: image/png
+Iterating 16 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqV3CmIQBojYioM7cSD-zlkNjtDm0z7ccB_bBkMfEOEmDWWPVa1ONrUPezzx3LXGIZJxuxjvh_vf6K_WQ2MpEr2A==
+Unknown content type: image/png
+Iterating 26 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqH0WGwe9CY_eNtBjdsOsGv9Zu2HDaCeO_VOIb048FS6CGqdXJWnoCbk2a-hykr_N_pj0HRtF7yWi9wpq87k3Y5A==
+Size of png url is: 13
+Unknown content type: image/png
+Iterating 23 times
+No result
+No result
+Iterating 25 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqOVGnSZuaRnEgW6MPVB2gJ6U4vuiqhP74xzAKKUjofCWbqfExEtsLl4M1m80X1A0fwHXP638fzLRnPZoYaZ86xw==
+Unknown content type: image/png
+No result
+No result
+Iterating 17 times
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqcKL_a8HSquHH2l31XjNtpyLVBstSbqXqdfXoJJ-5EY4MYoPWGFPaB5insiMEPDebf8ZvpgP4yVrQzXFCXEn5mg==
+Size of png url is: 14
+Unknown content type: image/png
+No result
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoquDBE3WK-q07eyV-5lyF2ReG0Q6TWj19ZlvYiWHR_4HUByQ84hhTHeOmduPk99EjRnJaOKrmG0Yo7B_L6iNoeTQ==
+Unknown content type: image/png
+No result
+Iterating 15 times
+Iterating 20 times
+No result
+Iterating 18 times
+Iterating 21 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqJh74vvn5U0wbJMTdz-d4UtBkYMJiUCgavuMEJR6fIAATaWFjDU_o0x8aAKyPW7Qp3XVCsuzeKARQVCw1Mp_aNQ==
+Unknown content type: image/png
+Iterating 29 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqgo8YnSJr1mU6zzMBlZBLbvqUQMqVtK3VBBQXLDrXUtAvAjraCPsh6NycXBlxr9DrOtHFqxtq550LlkEXLphCTA==
+Size of png url is: 15
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqUFVDu48UheUKNfQX-u9fLNGuz7mFMd8qHgLphqwVDnuhQvciY3sWnNDZdP91UAAaRJfD0_EOQdKE1ohXVwlNbQ==
+Size of png url is: 16
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqiN59zXwkIrUwyhEt5u5kpqsd6HbcvMUqgEHPeUCS4ozokIpMquhliCM4Yvk-3QWHG1Q17hAKMRen5phUSJJ_yQ==
+Unknown content type: image/png
+Iterating 27 times
+Iterating 23 times
+Unknown content type: text/html; charset=UTF-8
+Iterating 21 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqnAC-dsY2mioYp0KXZFFBTGGQXL_Wg4HSMe4EztPZ_6XbsWhPuW2avlffmdMSqdKhT4sp-6ISg1urDh1YJy32Rg==
+Size of png url is: 17
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqcyu5_cnSJ2l3T0vVa9cClpFg3Gg5WYBS_pOyPRM2C9eFaDymPpDw9svxZkRLCdML0C_Z1UL0Qin2wQpmjBUTnw==
+Size of png url is: 18
+Unknown content type: image/png
+Iterating 27 times
+Iterating 27 times
+Iterating 21 times
+No result
+No result
+No result
+Iterating 23 times
+Iterating 23 times
+No result
+No result
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqNWsAWJajhCG7vNTdO9jpw--ZoEuRu3rbfYD0d4j1FKdPyOJnyyIDudoeABe7O3iZePX1BFZpEe7MSE41dI9BOA==
+Size of png url is: 19
+Unknown content type: image/png
+No result
+No result
+Unknown content type: text/html; charset=UTF-8
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqlbCiDX5b-a3W54nFrTdOJ02a7RbAgwnpArG5_4cSt26a6ps3P63H1tNXc7_2cKjW-5Xpjy9Cv8fAuj2-94dD3g==
+Size of png url is: 20
+Unknown content type: image/png
+No result
+Iterating 19 times
+No result
+Iterating 15 times
+No result
+No result
+Iterating 17 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqOPRLPGzSiwHSdKrbejXV9DuijiB7HvMIiV6S8kE1M-xsUWFhNooanGd5qVL38aIqfB5O98WTMybt18cGA_P6FA==
+Unknown content type: image/png
+Iterating 27 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqbXHM1MeWQzCIoznLmI5HWVmVhnBnQlSviphCDwJtwyezRqWYjEP_82k9oes-K5MD96FtC1zCGUB1vKlAVfM1AQ==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqqNX4UjA2O8tCCL2ZAB4OgeWOK6P0v5XeIQ0O4rFu7PUxF2IhDrfsAon4_2sMZch_V-JVNGbzE4Aa_HLGw1CylA==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq-P8RLFLbpz6bqrNQlY2L7pQ3lCyKqfyro3BdadHFazPolfsALNdHhVujp3HNUrc_XElW9BHCOSLHL3UAncDlCw==
+Unknown content type: image/png
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq8a_fCBHa_BLE4fRAdtNj08KN7meSOIuWK1vJPXnmbxWz_gkT9GMTkw7_ml_Ba2VdVKpMvqU_QSpJ9NiIjwFtCA==
+Size of png url is: 21
+Unknown content type: image/png
+No result
+Iterating 24 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqHxfpDH87RCKWTHVXSECFOPleulDZQbasEch1iWOldZhEuz_yLee9rZSkksALml54i7f34lZFpX_M5S2NK2FTCw==
+Size of png url is: 22
+Unknown content type: image/png
+No result
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqW44GmfDp3HcTDEoHs2fxqfEsCTHOpIiH3JHhBbfrs_OkiWcpEQK2rqDZSsGol85fF56uKLJFvedQEbgZvukwcA==
+Unknown content type: image/png
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqSwLdnTCpgy27SzAN1Zz9BYWzoLfmB4uk17MLQk2fr_RJO4UKPFN4bl_sj4daScDvVxwCxUu20ZyfjG8tOjrOZg==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqfx__BLakfks3yEeAqoDRifEHzP52pQPdYV_vObS6A0ip-_2rfsfClWJO9IQiyTgDc45RPWEAhhwZas5NOGGDeQ==
+Unknown content type: image/png
+Iterating 22 times
+Iterating 19 times
+No result
+Iterating 16 times
+No result
+No result
+No result
+Iterating 25 times
+No result
+No result
+No result
+Iterating 26 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoq7gQan3cJFYjgEX4Q51s_IZeJahw5erGFAtEyFqT5cjCEAjK1TYRB5B6ifKrs58uenf37CspuwDbTnyz3737VQQ==
+Unknown content type: image/png
+No result
+Iterating 18 times
+Iterating 23 times
+Iterating 18 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqq3BxZfCnvoj1qmF7NeMZqk2cP1b9Ycsv7EHL5ZsYYcsdzuKR8HulpVOF11SNEJ7auMuhfo0YDItv6r24gBI50g==
+Size of png url is: 23
+Unknown content type: image/png
+Iterating 19 times
+Iterating 19 times
+Iterating 20 times
+Iterating 25 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq12a1y9KUsnVwBbMvmnrciODR4DVDP8BsN9oe-e_Mfp0X8ghUrgUAokJvNU7ECA7y7kQpRTiWuP-tMuLVLiUjLQ==
+Size of png url is: 24
+Unknown content type: image/png
+Iterating 27 times
+No result
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqnmj0uxlL9N_MOM4W9SHuG3Bv1GyyjC2slgkHU6HGVjDUWJ5Hry9FnQbkvTr21z79DFqZnzpRQ_TJm3dnFrFipw==
+Size of png url is: 25
+Unknown content type: image/png
+Iterating 20 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqZ06nqQtsvZ8Kd5-MROGMwRYTXXGWsBtuicrp5lKDpagJ6xGb5E8fDyoCo0Ps-JtdVvVEBsKJ8p4nFSx4AJaOZA==
+Size of png url is: 26
+Unknown content type: image/png
+Iterating 25 times
+Iterating 24 times
+Iterating 20 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqL9LRuHk7JF7cBx-hVADRTJCdjjs0or5ItVqFsYcwwCgdiCP7LioEm5vDYlN520W5833KcratYKQCFaCjTxnO2w==
+Size of png url is: 27
+Unknown content type: image/png
+Iterating 26 times
+Iterating 24 times
+No result
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqzO138B7PbKCBJ_88hN_yAsDGqM3eByyNwSvEndh0pnw8ZuhKPWIp-aZehTBOYltpYkDeuw4NV-P3p4tdJKMVMw==
+Unknown content type: image/png
+Iterating 26 times
+No result
+Iterating 22 times
+Iterating 25 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqT7tyKcy_ZbWe0AURY60Ch3yHQZt64dmU_vskpw1nGNZx__CddiJwU_ozzUshIZipMCGpp9rwe1pWT4Ny8w4xEQ==
+Size of png url is: 28
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqFm-hGmNXulpcdwG2lDPM-iPTE4i0auOJzwxb5AnCj8uySznoi-LvmRoLsjMsBhaQevW2-dSWIgkv556CKh5hCw==
+Unknown content type: image/png
+Iterating 19 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq0srT9FjOpjzwrwLfFizKEVax4JogTWG7giEBrvZAmviruUbXVU6TgEJG-r0fxLhw0rgvPDorqCp0iMelP-ECbA==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqny_HA63DcoFH6SKrgtrl4Ytq5S1UID0ydcwabB65Se4yekCRZ_wfmx0pZdC7UtrIw-IgC7JS4xQKadeJqQ7OpQ==
+Unknown content type: image/png
+Iterating 16 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqaiI_243Hz-JXReQJKhL79samKQKt0e-JN8SvaxSopyH0OFI8981P-KrUlucYcXKmfIN9RHM2Q-_R58tLfSVydw==
+Size of png url is: 29
+Unknown content type: image/png
+Iterating 26 times
+Iterating 19 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqiiGC9giS8uS6D6aAraz9kWgpjluJMTdwRj8VC5COebfvIwofnWRk1DWL-BN3VmwXAwutJ89vRA0Q8iCmQtqxtg==
+Size of png url is: 30
+Unknown content type: image/png
+Iterating 23 times
+Iterating 17 times
+Iterating 28 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqGd7UrFBhWrUaWMssY-MAuGjIxYVur9watlrpWPwTOkVFA1T8sFuqYKCfystNh6RyE6BFu_UQ_QZpNAZQkx22Aw==
+Size of png url is: 31
+Unknown content type: image/png
+No result
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqYQXrORR1PHeT9YKz0yJFE66gkOBsQcRZx2qQ-Sxvv-7V-YMmnwY99C-FnzB0WGyz9oc2sootaVTkiffjd5p2SA==
+Size of png url is: 32
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqf4ZaziO9hQbcSzRKIkt2tBexZsA89foKy05t_Bs_FmunbWysMSjpASncgIMb9MybFO3ge9EYLzdNNeXoN85aww==
+Size of png url is: 33
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoq-eTw_rpW7aW7Aqp7X79B1icwl5NKjSpSVRw9uhONrg1qsv2biNyWVXCIlC1UNcfibFfNX3ou34YcaLH_yEWZ3w==
+Size of png url is: 34
+Unknown content type: image/png
+Iterating 19 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoq4TX4OR0-xDPwa8a6looPtS-hdpubAfl7pzbc34O_fttreU8mGkJtOguT1ME-irP9WtMn06ehL59Sa3rV2m-ZgQ==
+Unknown content type: image/png
+No result
+Iterating 25 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqjfvwVPlPowd8jdAn8FpeUobBHXralnARDqT9BVXw4k1f7V35hhlAvL-eb_yrDE_bcphYp5k0EWtLjJeR-cPwtA==
+Size of png url is: 35
+Unknown content type: image/png
+Iterating 20 times
+Iterating 23 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqNyhy0eFLBXWbaeGTRcU8oIaSCecnWrYxqXRoYbxmmXIDbfThyJryFCY1GijcayTuSX2Qq55eTMV7bkqOzNc1AA==
+Unknown content type: image/png
+Iterating 21 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqNlb24OOyW_IOhXJn3-sWtGsGFjOUHBs9cmNC47NakGDzkSB4mVOELBv7uzl4y5C_yX3dbr0101tZJLJYixkgHg==
+Size of png url is: 36
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoq_jZ6zKbsB8-h6ymyqpIbdvOWlZnhDYslAKpAeZemQ-xUpAxWYrwOKkyoxyUU5BvzYBfOIvxqH5YrgcDivbnFmw==
+Size of png url is: 37
+Unknown content type: image/png
+Iterating 22 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqA3d4BNSMuu9sHQKLKj0-eSwTfVJJcMxBsma-PR6KGQanRREt0gjQGX5Lj1vZB_8NnU0d5zVoW0zIxQcB36X-Fg==
+Unknown content type: image/png
+Iterating 28 times
+Iterating 23 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqpZcK246XF93AIlS-2FVxOSt7kSYkO1s2y0lsqwzCgZyPQ6EVNfa7Ok0RYG3n2jnzMeozr58l9AEs7VRUevNpQA==
+Size of png url is: 38
+Unknown content type: image/png
+Iterating 27 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqYs5s56JbI8p4kgUs2Yt18Ag7uwAZ7JV9neAf4zTeg3o6Judx0-91bDxWomBkRoqZ7qW2M62pvW3X4h95yikmFA==
+Size of png url is: 39
+Unknown content type: image/png
+Iterating 15 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqxAc9LzhwJvhBo4OYBZXvyy2yILJYWzAvpRvggrrPfGzZ5cRoWz8CVh8HAlN12vF7spuETJjUsmH7B2HkSgY-AA==
+Unknown content type: image/png
+Iterating 25 times
+Unknown content type: text/html; charset=UTF-8
+Iterating 20 times
+Iterating 25 times
+Iterating 26 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqKpeuOY-q44PQvM41wYM4ZeGu0j2wer5aWP4tCvpRCEMoNoCJBluQSln6R_g7imGtqnWBaG_6NmC6jwY6i7g3qQ==
+Size of png url is: 40
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqcJUYRa9Jn5wyKKK20XQdHssuv-8yOKGRafaUNtGnVeSgq1tiWRTJKzUgznSSGaxDU6EPGEK1x9NOBjU4fORTtA==
+Unknown content type: image/png
+No result
+Iterating 21 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqb9ZaJ3q4dlzEvTgG9WYwKcD9Aw7OUXeFicO-5M5IdNDjHBpKw7KBK3nCVqtuga4yzUaFEpJn8BqA1LzZprIJBw==
+Size of png url is: 41
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqq9WviNatk9lUiimwcj8a6Mz57aHe6qCRptMnpm6xB02Z_FElFnGSSu4M3sAD5UpoNnf8Ratak4iq0CuKThGnug==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqUihgi-nstsLJKLILaSUNGx36Ubi4PmJZHFuy9UB01JbXrAbc0tudjRqNWmTOhs_UOV1ZHTxJBETWfiTfy_W1jw==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqohtRavtxROdkHkjdg5-Qds9yiyyjsLmCOZAyj6py9KDC3HG59pR87oWCPSpVH652UGEqaTYsC8tgNc7C7kDQYw==
+Size of png url is: 42
+Unknown content type: image/png
+Iterating 16 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoq01rkVkQjaeDmUS74YgpoAYouZhh90fUxB6VSDWbpFCBFW33WkG7EzOgwZAXEguFPp1c_7ZyAqD8Iv65pZvGr_g==
+Unknown content type: image/png
+No result
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqWGbq2k80cGaapxeTIlfH_IIeRzM_NlYysNg8pUnqdTMblbKVvvsb1_mZ6HzwFmofDF1ikgx2av_4yafJLBlwow==
+Unknown content type: image/png
+Unknown content type: text/html; charset=UTF-8
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqZ9Q5CWEe_l2tUpoA9sZdOAqkr21C9g-pUcFJpNSAV2Uav9IwoZmavFcEloh3auR1EJ2oYnYhw2RiD3o9TAe-bA==
+Size of png url is: 43
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqOovlBfDMSzrno8COKQwaaCt8uZETOaIkrRlYSvdW0lE7JfHUDJHVcXv-FY07JJ84tb0ZECQH5ABxrp_CVOkjVg==
+Unknown content type: image/png
+Iterating 23 times
+Iterating 21 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqS9JZ1mhvwHbuCJLZAhAf6BW3GL2shQEsemd5YDvBpOOnKBbfXoj2BX-v5Yrsnb3lcPz3XQc751PIKY-5EckiRg==
+Size of png url is: 44
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqav1Kdiw1sKgCtkng9xg0Zyiyvhd3DrosEFgqg3Prqnw6H3SwlotULiad5cBOAqVe8gwKXzTVGzk9dx85sz_OPQ==
+Size of png url is: 45
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqL_c-9JxDIvINtKeBS9-DJ8fUTufX-3rP8KbuX0cOVBcX2Ji5MY2nIQNBJzFVMu3Zgr6lttkG6JZAueSOdH6x6g==
+Unknown content type: image/png
+Iterating 24 times
+Iterating 27 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqth1j2waImmxp3FYuKw2kVBIkoarGJktM2TtSC2J78uwnaZObw4-rdnrypZw8y9h1E_sAM0G7pVTCkkuVoimq0Q==
+Size of png url is: 46
+Unknown content type: image/png
+Iterating 21 times
+Iterating 26 times
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq-pP0U15bygWdzAsdy_ZpOY8pHnECaju2IKgXvFCkPIrW81kzaEAe6AiDHqspyb0ayFQQqlfHKTVkpyoZ1d9usQ==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqDFa0MSzFiKBF-tpol0wOxKTw04KJB1Xj3hziQ4aCRb9a73dPib3kSj-JsKCpO63wZBRLAEIxerw6ljE5nGA5qw==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqEnWjkyuA2EoZBZzLzWONULrLWRi-LIIE6fPXM3in9D1cZVTZJH8bxEy7nvAFKsTPjKTDOLi1IqZBfsTxtjFzBQ==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqdOgw2SYmoKCGvpE7R7IqVny8txxEvnqguBQiSe9Ll4f41V9HHcDgGw12m7XR18_-HXk6GXzALh4QVA8_H_r3DQ==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqERCtkyqVRCjbnoVakr_v91GlK2M-3aPfqizRnw_h5SKZdEeKUGglkrMHYg--ImcRUEFcJmTZGPYZxUyyBMX20Q==
+Size of png url is: 47
+Unknown content type: image/png
+Iterating 22 times
+Iterating 21 times
+Iterating 23 times
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqbop_r-bv-GcAXp25P0qVJVwrRuQrJozXTpHlFh6TGJPXtp2CZAV13en29GF9wyAmIufltoax_YoIp1KMoisy7Q==
+Size of png url is: 48
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqa-SLNxxeRz6g8hbukAY6s-snv86AiV_CnMmRl0RUaPtTPGqJ59GhVLJJp-xboyMPsXMrFyPvYr8fZb-2fTCmzQ==
+Unknown content type: image/png
+Iterating 27 times
+Iterating 20 times
+Iterating 24 times
+Iterating 29 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqChrAu4v-3qJGgmY2RYeTK1jUhoszLigVxGLad-ND9XemhlgCuaPi9DVlWZaqOo9sY7M0pwvr90dkqRLbZmp5nw==
+Unknown content type: image/png
+Iterating 22 times
+Iterating 27 times
+Iterating 23 times
+Content-Type is image/png. URL: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoquyIz_fThCfw4xeGXrfUvAe5lwVqcKw1YfYbktsh4OyXKiCns80EtzIYGqn_uYdMyoKUcd-Fg9OAGDZcSoVcfyQ==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqYnqoAyQ63JsGOpkl3FS7URCyJwViRvw8yzSzySAu60-m8z2nyNKQJPGjllznYVBZTqqnT3vOu4mfiz6qJFHU_A==
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqMUkP4fdCUpgRdQqvWMVvlp-n8WuV6_Hkn78FkrQO-xqJza1MGj559YmXiukjEnouKpNdeWFuQWlgaiX2Dbb0cA==
+Size of png url is: 49
+Unknown content type: image/png
+Content-Type is image/png. URL: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq9Z8RdTtoktA-1xxESuhS6D_q3wV5apoPT58_MCY5VjI4pSF3v3mXX_YG0Oa02ASxLs9araYeSv54oEL1Vwj_Lg==
+Size of png url is: 50
+Unknown content type: image/png
+findpng3 execution time: 4.232391 seconds
+
+-- case 6.1 --
+Found pngs: 3 for -m=3, 50 for -m=50, and 50 for -m=100
+Test Passed: Number of pngs is correct in all run cases +1
+
+-- case 6.2 --
+Found log entries: 70 for -m=3, 348 for -m=50, and 348 for -m=100
+Test Passed: Number of URLs visited for -m 50 <= -m 100 +1
+
+-- case 6.3 --
+Test Passed: Run time for -m 100 is <= 2X of -m 50 +1
+
+======= PART 7 =======
+
+-- case 7.1 --
+Running valgrind with arguments -t 10 -m 50
+Test Passed: Did not find definitely lost bytes +0.5
+
+===== SUMMARY =====
+
+Tests Passed:
+---------------
+- Compiled from makefile +0.5
+- Running with -t 20 -m 20 collected 20 unique and valid pngs +1
+- Running with -t 20 -m 100 collected 50 unique, valid pngs +1
+- With -t 20 -m 100 visited >= 347 urls +1
+- Correctly spawns only 1 thread with -t in [5,20] +1
+- Student used cURL multi handle +1
+- Running with -t20 was >= 16x faster than -t1 (or took <= 2.4s) +1
+- Running with -t10 was >= 8x faster than -t1 (or took <= 4.8s) +1
+- Number of pngs is correct in all run cases +1
+- Number of URLs visited for -m 50 <= -m 100 +1
+- Run time for -m 100 is <= 2X of -m 50 +1
+- Did not find definitely lost bytes +0.5
+
+Tests Failed:
+---------------
+########### Score ###########
+Total lab 5 score: 11.0/11
+
+#### Additional Comments ####
+ST: made mistake when I regraded this the first time with setup (not error with marking script)
+

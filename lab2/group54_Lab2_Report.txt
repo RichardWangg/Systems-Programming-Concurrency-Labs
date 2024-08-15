@@ -1,0 +1,321 @@
+########### Setting Up Directory  ###########
+Removing all .pngs, .o, .d and executables
+########### Running Tests  ###########
+
+PART 0===================================
+>> make all
+paster compiled +2
+Any *.out renamed to *
+
+
+PART 1===================================
+
+>> ./paster
+Number of threads detected: 241
+Expected: 1 or 2
+incorrect -2
+Program completed successfully
+Process finished after 57 seconds
+
+>> ./paster
+Program completed successfully
+Process finished after 42 seconds
+Average processing time for 2 runs is 49 seconds
+Got image error = 
+0all.png
+images pass absolute error test +4
+
+>> ./pnginfo all.png
+Got: 
+all.png: 400 x 300 
+Dimensions correct +2
+No crc errors +2
+
+PART 2===================================
+
+>> ./paster -n 2
+Program completed successfully
+Got image error = 
+0all.png
+images pass absolute error test +1
+
+>> ./pnginfo all.png
+Got: 
+all.png: 400 x 300 
+Dimensions correct +1
+No crc errors +1
+
+>> ./paster -n 3
+Program completed successfully
+Got image error = 
+0all.png
+images pass absolute error test +1
+
+>> ./pnginfo all.png
+Got: 
+all.png: 400 x 300 
+Dimensions correct +1
+No crc errors +1
+
+PART 3===================================
+
+Checking requests being made to all 3 servers
+Requests to all 3 servers detected +4
+
+PART 4===================================
+
+>> ./paster -t 2 -n 1
+Number of threads detected: 2
+Expected: 2 or 3
+correct +2
+Program completed successfully
+run time for t = 2  is  29
+run time for t = 2  is  48
+run time for t = 2  is  32
+run time for t = 2  is  26
+run time for t = 2  is  23
+Got image error = 
+0all.png
+images pass absolute error test +1
+
+>> ./pnginfo all.png
+Got: 
+all.png: 400 x 300 
+Dimensions correct +1
+No crc errors +1
+
+Average processing time for 5 runs is 31 seconds
+
+>> ./paster -t 3 -n 1
+Number of threads detected: 3
+Expected: 3 or 4
+correct +2
+Program completed successfully
+run time for t = 3  is  23
+run time for t = 3  is  20
+run time for t = 3  is  14
+run time for t = 3  is  27
+run time for t = 3  is  21
+Got image error = 
+0all.png
+images pass absolute error test +1
+
+>> ./pnginfo all.png
+Got: 
+all.png: 400 x 300 
+Dimensions correct +1
+No crc errors +1
+
+Average processing time for 5 runs is 21 seconds
+
+>> ./paster -t 4 -n 1
+Number of threads detected: 4
+Expected: 4 or 5
+correct +2
+Program completed successfully
+run time for t = 4  is  19
+run time for t = 4  is  10
+run time for t = 4  is  9
+run time for t = 4  is  19
+run time for t = 4  is  14
+Got image error = 
+0all.png
+images pass absolute error test +1
+
+>> ./pnginfo all.png
+Got: 
+all.png: 400 x 300 
+Dimensions correct +1
+No crc errors +1
+
+Average processing time for 5 runs is 14 seconds
+
+>> ./paster -t 5 -n 1
+Number of threads detected: 5
+Expected: 5 or 6
+correct +2
+Program completed successfully
+run time for t = 5  is  13
+run time for t = 5  is  10
+run time for t = 5  is  12
+run time for t = 5  is  12
+run time for t = 5  is  7
+Got image error = 
+0all.png
+images pass absolute error test +1
+
+>> ./pnginfo all.png
+Got: 
+all.png: 400 x 300 
+Dimensions correct +1
+No crc errors +1
+
+Average processing time for 5 runs is 10 seconds
+
+>> ./paster -t 6 -n 1
+Number of threads detected: 6
+Expected: 6 or 7
+correct +2
+Program completed successfully
+run time for t = 6  is  8
+run time for t = 6  is  12
+run time for t = 6  is  10
+run time for t = 6  is  8
+run time for t = 6  is  9
+Got image error = 
+0all.png
+images pass absolute error test +1
+
+>> ./pnginfo all.png
+Got: 
+all.png: 400 x 300 
+Dimensions correct +1
+No crc errors +1
+
+Average processing time for 5 runs is 9 seconds
+
+>> ./paster -t 7 -n 1
+Number of threads detected: 7
+Expected: 7 or 8
+correct +2
+Program completed successfully
+run time for t = 7  is  9
+run time for t = 7  is  8
+run time for t = 7  is  10
+run time for t = 7  is  8
+run time for t = 7  is  10
+Got image error = 
+0all.png
+images pass absolute error test +1
+
+>> ./pnginfo all.png
+Got: 
+all.png: 400 x 300 
+Dimensions correct +1
+No crc errors +1
+
+Average processing time for 5 runs is 9 seconds
+
+>> ./paster -t 8 -n 1
+Number of threads detected: 8
+Expected: 8 or 9
+correct +2
+Program completed successfully
+run time for t = 8  is  8
+run time for t = 8  is  8
+run time for t = 8  is  6
+run time for t = 8  is  8
+run time for t = 8  is  5
+Got image error = 
+0all.png
+images pass absolute error test +1
+
+>> ./pnginfo all.png
+Got: 
+all.png: 400 x 300 
+Dimensions correct +1
+No crc errors +1
+
+Average processing time for 5 runs is 7 seconds
+
+>> ./paster -t 9 -n 1
+Number of threads detected: 9
+Expected: 9 or 10
+correct +2
+Program completed successfully
+run time for t = 9  is  8
+run time for t = 9  is  6
+run time for t = 9  is  5
+run time for t = 9  is  6
+run time for t = 9  is  7
+Got image error = 
+0all.png
+images pass absolute error test +1
+
+>> ./pnginfo all.png
+Got: 
+all.png: 400 x 300 
+Dimensions correct +1
+No crc errors +1
+
+Average processing time for 5 runs is 6 seconds
+
+>> ./paster -t 10 -n 1
+Number of threads detected: 10
+Expected: 10 or 11
+correct +2
+Program completed successfully
+run time for t = 10  is  9
+run time for t = 10  is  6
+run time for t = 10  is  8
+run time for t = 10  is  3
+run time for t = 10  is  5
+Got image error = 
+0all.png
+images pass absolute error test +1
+
+>> ./pnginfo all.png
+Got: 
+all.png: 400 x 300 
+Dimensions correct +1
+No crc errors +1
+
+Average processing time for 5 runs is 6 seconds
+
+
+PART 5===================================
+
+    # of Threads:  1  ...  10
+Processing Times: 49 31 21 14 10 9 9 7 6 6
+Observed Speedups: 1.00 1.58 2.33 3.50 4.90 5.44 5.44 7.00 8.16 8.16 
+-t10 is at least 8x faster than -t1 +10
+
+PART 6===================================
+
+>> ./paster -t 10 -n 2
+Program completed successfully
+Got image error = 
+0all.png
+images pass absolute error test +2
+
+>> ./pnginfo all.png
+Got: 
+all.png: 400 x 300 
+Dimensions correct +2
+No crc errors +1
+
+>> ./paster -t 10 -n 3
+Program completed successfully
+Got image error = 
+0all.png
+images pass absolute error test +2
+
+>> ./pnginfo all.png
+Got: 
+all.png: 400 x 300 
+Dimensions correct +2
+No crc errors +1
+
+PART 7===================================
+Found measures towards thread safety +5
+
+PART 8===================================
+
+>> valgrind --leak-check=full ./paster -t 10 -n 1 
+Did not find definitely lost bytes +5
+
+PART 9===================================
+
+>> make clean
+No .o found +1
+No executable found +1
+
+########### Score ###########
+
+File Organization score: 10/10
+Makefile score: 4/4
+paster multi-threaded score:  93/95
+Total lab 2 score:  109/109
+
+########### Additional Comments ###########
+ST: +2 correction for number of threads. Special casing it just caused our script to catch the threads created by the cURL library.
